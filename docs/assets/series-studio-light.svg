@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1228 468" width="1228" height="468" role="img" aria-label="Studio Series — Palettes From the Field">
+  <defs><linearGradient id="g-st-dusk" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#fbbf24"/><stop offset="25%" stop-color="#f97316"/><stop offset="50%" stop-color="#dc2626"/><stop offset="75%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#1e1b4b"/></linearGradient><linearGradient id="g-st-mascot" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#0a0a0f"/><stop offset="33%" stop-color="#27272a"/><stop offset="66%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#c4b5fd"/></linearGradient><linearGradient id="g-st-caravan" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#fef3c7"/><stop offset="25%" stop-color="#fbbf24"/><stop offset="75%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#1e1b4b"/></linearGradient><linearGradient id="g-st-outpost" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#0c4a6e"/><stop offset="33%" stop-color="#0ea5e9"/><stop offset="66%" stop-color="#7dd3fc"/><stop offset="100%" stop-color="#e0f2fe"/></linearGradient><linearGradient id="g-st-forge" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#451a03"/><stop offset="33%" stop-color="#92400e"/><stop offset="66%" stop-color="#dc2626"/><stop offset="100%" stop-color="#7c3aed"/></linearGradient><linearGradient id="g-st-cohort" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#7c3aed"/><stop offset="25%" stop-color="#ec4899"/><stop offset="50%" stop-color="#f97316"/><stop offset="75%" stop-color="#fbbf24"/><stop offset="100%" stop-color="#84cc16"/></linearGradient><filter id="okb-grain" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3" stitchTiles="stitch"/>
+  <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.06 0"/>
+</filter></defs>
+  <rect width="1228" height="468" fill="#FAFAFA"/>
+  <text x="32" y="40" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="22" font-weight="700" fill="#0A0A0F">Studio Series — Palettes From the Field</text>
+  <text x="32" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#6B7280">6 gradients · 6 gradients distilled from real okaybabe studio engagements — twilight palettes, brand canon, and more. Portfolio breadcrumbs that double as palettes.</text>
+  <g>
+      <rect x="32" y="64" width="220" height="110" rx="8" fill="url(#g-st-dusk)"/>
+      <rect x="32" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="32" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="32" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Dusk</text>
+      <text x="32" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#fbbf24 → #f97316 → #dc2626</text>
+    </g><g>
+      <rect x="268" y="64" width="220" height="110" rx="8" fill="url(#g-st-mascot)"/>
+      <rect x="268" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="268" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="268" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Mascot</text>
+      <text x="268" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#0a0a0f → #27272a → #7c3aed</text>
+    </g><g>
+      <rect x="504" y="64" width="220" height="110" rx="8" fill="url(#g-st-caravan)"/>
+      <rect x="504" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="504" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="504" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Caravan</text>
+      <text x="504" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#fef3c7 → #fbbf24 → #7c3aed</text>
+    </g><g>
+      <rect x="740" y="64" width="220" height="110" rx="8" fill="url(#g-st-outpost)"/>
+      <rect x="740" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="740" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="740" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Outpost</text>
+      <text x="740" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#0c4a6e → #0ea5e9 → #7dd3fc</text>
+    </g><g>
+      <rect x="976" y="64" width="220" height="110" rx="8" fill="url(#g-st-forge)"/>
+      <rect x="976" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="976" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="976" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Forge</text>
+      <text x="976" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#451a03 → #92400e → #dc2626</text>
+    </g><g>
+      <rect x="32" y="234" width="220" height="110" rx="8" fill="url(#g-st-cohort)"/>
+      <rect x="32" y="234" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="32" y="234" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="32" y="362" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Cohort</text>
+      <text x="32" y="378" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#7c3aed → #ec4899 → #f97316</text>
+    </g>
+</svg>

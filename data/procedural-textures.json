@@ -1,0 +1,137 @@
+{
+  "$schema": "../scripts/schemas/procedural-textures.v1.json",
+  "version": "1.0.0",
+  "license": "MIT",
+  "license_header": "okaybabe procedural texture library v1.0 — MIT — okaybabe.com/gradients",
+  "textures": {
+    "grain-fine": {
+      "name": "Grain Fine",
+      "description": "Tight high-frequency analog grain. Adds subtle organic noise without overpowering the underlying surface. Best at 6–12% opacity over solid colors and smooth gradients.",
+      "params": {
+        "baseFrequency": "0.9",
+        "numOctaves": 2,
+        "seed": 3,
+        "opacity": 0.08,
+        "blendMode": "overlay"
+      },
+      "svg": "<filter id='okb-grain-fine' x='0' y='0' width='100%' height='100%'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' seed='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.08 0'/></filter>",
+      "css_snippet": ".okb-grain-fine::after{content:'';position:absolute;inset:0;pointer-events:none;filter:url(#okb-grain-fine);mix-blend-mode:overlay;opacity:0.08;}"
+    },
+    "oil-slick": {
+      "name": "Oil Slick",
+      "description": "Low-frequency chromatic displacement evoking petroleum sheen on wet pavement. Pairs with cool→warm gradient stops for the classic iridescent slick.",
+      "params": {
+        "baseFrequency": "0.02",
+        "numOctaves": 3,
+        "scale": 12,
+        "seed": 11,
+        "opacity": 0.5
+      },
+      "svg": "<filter id='okb-oil-slick' x='-10%' y='-10%' width='120%' height='120%'><feTurbulence type='fractalNoise' baseFrequency='0.02' numOctaves='3' seed='11'/><feDisplacementMap in='SourceGraphic' scale='12' xChannelSelector='R' yChannelSelector='G'/></filter>",
+      "css_snippet": ".okb-oil-slick{filter:url(#okb-oil-slick);}"
+    },
+    "risograph": {
+      "name": "Risograph",
+      "description": "High-contrast banded noise with deliberate mis-registration character. Channels duplicator-press print artifacts at studio scale.",
+      "params": {
+        "baseFrequency": "0.05",
+        "numOctaves": 1,
+        "threshold": 0.5,
+        "seed": 7,
+        "opacity": 0.18
+      },
+      "svg": "<filter id='okb-risograph' x='0' y='0' width='100%' height='100%'><feTurbulence type='fractalNoise' baseFrequency='0.05' numOctaves='1' seed='7' stitchTiles='stitch'/><feComponentTransfer><feFuncR type='discrete' tableValues='0 1'/><feFuncG type='discrete' tableValues='0 1'/><feFuncB type='discrete' tableValues='0 1'/></feComponentTransfer><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.18 0'/></filter>",
+      "css_snippet": ".okb-risograph::after{content:'';position:absolute;inset:0;pointer-events:none;filter:url(#okb-risograph);mix-blend-mode:multiply;opacity:0.18;}"
+    },
+    "halftone": {
+      "name": "Halftone",
+      "description": "Dot-screen pattern with breathing density. Editorial-print aesthetic — think 70s magazine reproduction at studio-quality grain.",
+      "params": {
+        "dotSize": 2,
+        "spacing": 6,
+        "color": "#0a0a0f",
+        "opacity": 0.18,
+        "blendMode": "multiply"
+      },
+      "svg": "<pattern id='okb-halftone' x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse'><circle cx='3' cy='3' r='1.1' fill='#0a0a0f' opacity='0.18'/></pattern>",
+      "css_snippet": ".okb-halftone{background-image:radial-gradient(circle at 3px 3px,rgba(10,10,15,0.18) 1.1px,transparent 1.4px);background-size:6px 6px;}"
+    },
+    "chrome-warp": {
+      "name": "Chrome Warp",
+      "description": "Strong low-frequency displacement creating glossy distortion fields. Liquefied chrome at near-real-time render quality.",
+      "params": {
+        "baseFrequency": "0.01",
+        "numOctaves": 2,
+        "scale": 20,
+        "seed": 17,
+        "opacity": 1
+      },
+      "svg": "<filter id='okb-chrome-warp' x='-15%' y='-15%' width='130%' height='130%'><feTurbulence type='turbulence' baseFrequency='0.01' numOctaves='2' seed='17'/><feDisplacementMap in='SourceGraphic' scale='20' xChannelSelector='R' yChannelSelector='G'/></filter>",
+      "css_snippet": ".okb-chrome-warp{filter:url(#okb-chrome-warp);}"
+    },
+    "vapor": {
+      "name": "Vapor",
+      "description": "Soft cloud-like fractal noise. Atmospheric, gentle, never harsh. The default texture for soft pastel gradients.",
+      "params": {
+        "baseFrequency": "0.015",
+        "numOctaves": 4,
+        "seed": 23,
+        "opacity": 0.06,
+        "blendMode": "soft-light"
+      },
+      "svg": "<filter id='okb-vapor' x='0' y='0' width='100%' height='100%'><feTurbulence type='fractalNoise' baseFrequency='0.015' numOctaves='4' seed='23' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.06 0'/></filter>",
+      "css_snippet": ".okb-vapor::after{content:'';position:absolute;inset:0;pointer-events:none;filter:url(#okb-vapor);mix-blend-mode:soft-light;opacity:0.06;}"
+    },
+    "ink-bleed": {
+      "name": "Ink Bleed",
+      "description": "Turbulence + dilate morphology to simulate ink crawling on cotton-fiber paper. Ideal for editorial type backgrounds.",
+      "params": {
+        "baseFrequency": "0.08",
+        "numOctaves": 2,
+        "morphologyRadius": 0.6,
+        "seed": 31,
+        "opacity": 0.22
+      },
+      "svg": "<filter id='okb-ink-bleed' x='-5%' y='-5%' width='110%' height='110%'><feTurbulence type='fractalNoise' baseFrequency='0.08' numOctaves='2' seed='31'/><feMorphology operator='dilate' radius='0.6'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.22 0'/></filter>",
+      "css_snippet": ".okb-ink-bleed::after{content:'';position:absolute;inset:0;pointer-events:none;filter:url(#okb-ink-bleed);mix-blend-mode:multiply;opacity:0.22;}"
+    },
+    "noise-coarse": {
+      "name": "Noise Coarse",
+      "description": "Larger pixel-grain noise. Tactile film-stock character. Sits well over dark surfaces.",
+      "params": {
+        "baseFrequency": "0.4",
+        "numOctaves": 2,
+        "seed": 41,
+        "opacity": 0.12,
+        "blendMode": "overlay"
+      },
+      "svg": "<filter id='okb-noise-coarse' x='0' y='0' width='100%' height='100%'><feTurbulence type='fractalNoise' baseFrequency='0.4' numOctaves='2' seed='41' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.12 0'/></filter>",
+      "css_snippet": ".okb-noise-coarse::after{content:'';position:absolute;inset:0;pointer-events:none;filter:url(#okb-noise-coarse);mix-blend-mode:overlay;opacity:0.12;}"
+    },
+    "scan-lines": {
+      "name": "Scan Lines",
+      "description": "Horizontal CRT phosphor-line simulation with subtle vertical interlacing. Y2K hardware nostalgia, restrained.",
+      "params": {
+        "lineHeight": 2,
+        "spacing": 3,
+        "color": "#0a0a0f",
+        "opacity": 0.12
+      },
+      "svg": "<pattern id='okb-scan-lines' x='0' y='0' width='3' height='3' patternUnits='userSpaceOnUse'><rect x='0' y='0' width='3' height='1' fill='#0a0a0f' opacity='0.12'/></pattern>",
+      "css_snippet": ".okb-scan-lines{background-image:repeating-linear-gradient(0deg,rgba(10,10,15,0.12) 0,rgba(10,10,15,0.12) 1px,transparent 1px,transparent 3px);}"
+    },
+    "paper-fiber": {
+      "name": "Paper Fiber",
+      "description": "Directional cross-fiber noise with stitchTiles seam for repeatable tiling. Coton-paper character; underlies the Studio Series gradients beautifully.",
+      "params": {
+        "baseFrequency": "0.7",
+        "numOctaves": 3,
+        "seed": 53,
+        "opacity": 0.10,
+        "blendMode": "multiply"
+      },
+      "svg": "<filter id='okb-paper-fiber' x='0' y='0' width='100%' height='100%'><feTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='3' seed='53' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.10 0'/></filter>",
+      "css_snippet": ".okb-paper-fiber::after{content:'';position:absolute;inset:0;pointer-events:none;filter:url(#okb-paper-fiber);mix-blend-mode:multiply;opacity:0.10;}"
+    }
+  }
+}

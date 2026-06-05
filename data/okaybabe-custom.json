@@ -1,0 +1,1605 @@
+{
+  "$schema": "../scripts/schemas/okaybabe-custom.v1.json",
+  "version": "1.1.0",
+  "license": "MIT",
+  "license_header": "okaybabe gradient pack \u2014 41 okaybabe-original gradients across 5 series \u2014 MIT \u2014 okaybabe.com/gradients",
+  "series_index": [
+    {
+      "id": "aperture",
+      "name": "Aperture Series",
+      "subtitle": "Prismatic Anchor",
+      "description": "6 hand-crafted prismatic gradients anchored to the okaybabe brand (#7C3AED violet-600 + indigo #6366F1). Hero series \u2014 the brand identity wash.",
+      "count": 6,
+      "anchor": "Refraction"
+    },
+    {
+      "id": "surface",
+      "name": "Surface Series",
+      "subtitle": "Paper Tones Library",
+      "description": "19 paper-tone gradients extracted from owned analog textures via OKLCH k-means. Earth \u00b7 Champagne \u00b7 Paper \u00b7 Textile \u00b7 Cool tiers.",
+      "count": 19,
+      "anchor": "Russet"
+    },
+    {
+      "id": "studio",
+      "name": "Studio Series",
+      "subtitle": "Palettes From the Field",
+      "description": "6 gradients distilled from real okaybabe studio engagements \u2014 twilight palettes, brand canon, and more. Portfolio breadcrumbs that double as palettes.",
+      "count": 6,
+      "anchor": "Dusk"
+    },
+    {
+      "id": "vapor",
+      "name": "Vapor Series",
+      "subtitle": "Soft Pastel",
+      "description": "5 soft-pastel originals. Trend coverage without chasing.",
+      "count": 5,
+      "anchor": "Mist"
+    },
+    {
+      "id": "ink",
+      "name": "Ink Series",
+      "subtitle": "High-Contrast Editorial",
+      "description": "5 high-contrast duo-tones with chromatic aberration. Editorial / pitch-deck character.",
+      "count": 5,
+      "anchor": "Crash"
+    }
+  ],
+  "gradients": [
+    {
+      "id": "ss-russet",
+      "name": "Russet",
+      "series": "surface",
+      "tonalTier": "earth",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 33.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#82432e",
+          "pos": 0
+        },
+        {
+          "color": "#8e5039",
+          "pos": 25
+        },
+        {
+          "color": "#9a624a",
+          "pos": 50
+        },
+        {
+          "color": "#a9795f",
+          "pos": 75
+        },
+        {
+          "color": "#b5876d",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm"
+      ],
+      "extraction": {
+        "meanChroma": 0.0806,
+        "stddevL": 0.0793,
+        "topClusterWeight": 0.2863
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-sienna",
+      "name": "Sienna",
+      "series": "surface",
+      "tonalTier": "earth",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 32.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#834631",
+          "pos": 0
+        },
+        {
+          "color": "#90543e",
+          "pos": 25
+        },
+        {
+          "color": "#9c674e",
+          "pos": 50
+        },
+        {
+          "color": "#a9795f",
+          "pos": 75
+        },
+        {
+          "color": "#b5876d",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0767,
+        "stddevL": 0.0731,
+        "topClusterWeight": 0.2222
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-tobacco",
+      "name": "Tobacco",
+      "series": "surface",
+      "tonalTier": "earth",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 31.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#894c35",
+          "pos": 0
+        },
+        {
+          "color": "#975f47",
+          "pos": 25
+        },
+        {
+          "color": "#a5755c",
+          "pos": 50
+        },
+        {
+          "color": "#b18369",
+          "pos": 75
+        },
+        {
+          "color": "#bd9077",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0722,
+        "stddevL": 0.0635,
+        "topClusterWeight": 0.3567
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-kraft",
+      "name": "Kraft",
+      "series": "surface",
+      "tonalTier": "earth",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 30.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#90573f",
+          "pos": 0
+        },
+        {
+          "color": "#9f6d54",
+          "pos": 25
+        },
+        {
+          "color": "#ab7c63",
+          "pos": 50
+        },
+        {
+          "color": "#b3866c",
+          "pos": 75
+        },
+        {
+          "color": "#be9178",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0701,
+        "stddevL": 0.05,
+        "topClusterWeight": 0.3199
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-champagne",
+      "name": "Champagne",
+      "series": "surface",
+      "tonalTier": "champagne",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 28.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#dcae82",
+          "pos": 0
+        },
+        {
+          "color": "#e2b68b",
+          "pos": 25
+        },
+        {
+          "color": "#e5be96",
+          "pos": 50
+        },
+        {
+          "color": "#e7c39f",
+          "pos": 75
+        },
+        {
+          "color": "#e9c7a4",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0655,
+        "stddevL": 0.0167,
+        "topClusterWeight": 0.4691
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-bone-paper",
+      "name": "Bone Paper",
+      "series": "surface",
+      "tonalTier": "champagne",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 12.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#d0b8a4",
+          "pos": 0
+        },
+        {
+          "color": "#d5bfad",
+          "pos": 25
+        },
+        {
+          "color": "#d9c4b1",
+          "pos": 50
+        },
+        {
+          "color": "#dbc8b7",
+          "pos": 75
+        },
+        {
+          "color": "#e0cebd",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.034,
+        "stddevL": 0.0174,
+        "topClusterWeight": 0.2969
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-buttermilk",
+      "name": "Buttermilk",
+      "series": "surface",
+      "tonalTier": "champagne",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 22.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#dcbea4",
+          "pos": 0
+        },
+        {
+          "color": "#e5cbb4",
+          "pos": 25
+        },
+        {
+          "color": "#e8d3bf",
+          "pos": 50
+        },
+        {
+          "color": "#eadac9",
+          "pos": 75
+        },
+        {
+          "color": "#ecdfd2",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0311,
+        "stddevL": 0.0212,
+        "topClusterWeight": 0.3151
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-cartridge",
+      "name": "Cartridge",
+      "series": "surface",
+      "tonalTier": "paper",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 14.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#ceb39f",
+          "pos": 0
+        },
+        {
+          "color": "#d4bdab",
+          "pos": 25
+        },
+        {
+          "color": "#d8c3b3",
+          "pos": 50
+        },
+        {
+          "color": "#dac8b9",
+          "pos": 75
+        },
+        {
+          "color": "#decec0",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0306,
+        "stddevL": 0.0165,
+        "topClusterWeight": 0.3705
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-bristol",
+      "name": "Bristol",
+      "series": "surface",
+      "tonalTier": "champagne",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 16.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#e0c2a8",
+          "pos": 0
+        },
+        {
+          "color": "#e8d0ba",
+          "pos": 25
+        },
+        {
+          "color": "#ead8c6",
+          "pos": 50
+        },
+        {
+          "color": "#ebddcf",
+          "pos": 75
+        },
+        {
+          "color": "#ede2d6",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0281,
+        "stddevL": 0.0201,
+        "topClusterWeight": 0.2848
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-onionskin",
+      "name": "Onionskin",
+      "series": "surface",
+      "tonalTier": "paper",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 18.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#dfc5b0",
+          "pos": 0
+        },
+        {
+          "color": "#e7d1be",
+          "pos": 25
+        },
+        {
+          "color": "#e9d7c6",
+          "pos": 50
+        },
+        {
+          "color": "#eadccd",
+          "pos": 75
+        },
+        {
+          "color": "#ebe0d4",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0271,
+        "stddevL": 0.0159,
+        "topClusterWeight": 0.2983
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-linen",
+      "name": "Linen",
+      "series": "surface",
+      "tonalTier": "paper",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 20.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#ddc2ac",
+          "pos": 0
+        },
+        {
+          "color": "#e5d0bc",
+          "pos": 25
+        },
+        {
+          "color": "#e9d7c5",
+          "pos": 50
+        },
+        {
+          "color": "#eadccd",
+          "pos": 75
+        },
+        {
+          "color": "#ebe1d6",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0255,
+        "stddevL": 0.0171,
+        "topClusterWeight": 0.3109
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-bond",
+      "name": "Bond",
+      "series": "surface",
+      "tonalTier": "paper",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 10.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#d0bfb1",
+          "pos": 0
+        },
+        {
+          "color": "#d6c6b8",
+          "pos": 25
+        },
+        {
+          "color": "#dacbbd",
+          "pos": 50
+        },
+        {
+          "color": "#ddcfc2",
+          "pos": 75
+        },
+        {
+          "color": "#e0d4c7",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0248,
+        "stddevL": 0.0161,
+        "topClusterWeight": 0.3123
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-mulberry",
+      "name": "Mulberry",
+      "series": "surface",
+      "tonalTier": "textile",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 23.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#bda08a",
+          "pos": 0
+        },
+        {
+          "color": "#d5c3b4",
+          "pos": 25
+        },
+        {
+          "color": "#d9cabc",
+          "pos": 50
+        },
+        {
+          "color": "#dccfc2",
+          "pos": 75
+        },
+        {
+          "color": "#e0d4c8",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0238,
+        "stddevL": 0.0183,
+        "topClusterWeight": 0.3189
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-eggshell",
+      "name": "Eggshell",
+      "series": "surface",
+      "tonalTier": "textile",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 24.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#d2bfaf",
+          "pos": 0
+        },
+        {
+          "color": "#d6c6b8",
+          "pos": 25
+        },
+        {
+          "color": "#d9cabd",
+          "pos": 50
+        },
+        {
+          "color": "#dccfc3",
+          "pos": 75
+        },
+        {
+          "color": "#dfd4c9",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0236,
+        "stddevL": 0.0161,
+        "topClusterWeight": 0.3019
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-cotton",
+      "name": "Cotton",
+      "series": "surface",
+      "tonalTier": "textile",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 11.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#bc9c86",
+          "pos": 0
+        },
+        {
+          "color": "#d2beaf",
+          "pos": 25
+        },
+        {
+          "color": "#d7c7b9",
+          "pos": 50
+        },
+        {
+          "color": "#dbcdc1",
+          "pos": 75
+        },
+        {
+          "color": "#dfd2c7",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0228,
+        "stddevL": 0.0186,
+        "topClusterWeight": 0.4089
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-pulp",
+      "name": "Pulp",
+      "series": "surface",
+      "tonalTier": "textile",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 13.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#bf9386",
+          "pos": 0
+        },
+        {
+          "color": "#d2bfb2",
+          "pos": 25
+        },
+        {
+          "color": "#d8c8bd",
+          "pos": 50
+        },
+        {
+          "color": "#dccfc4",
+          "pos": 75
+        },
+        {
+          "color": "#e0d4ca",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0218,
+        "stddevL": 0.0256,
+        "topClusterWeight": 0.3206
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-tracing",
+      "name": "Tracing",
+      "series": "surface",
+      "tonalTier": "paper",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 17.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#dbbea6",
+          "pos": 0
+        },
+        {
+          "color": "#e5d0bc",
+          "pos": 25
+        },
+        {
+          "color": "#e9d9c9",
+          "pos": 50
+        },
+        {
+          "color": "#eaded2",
+          "pos": 75
+        },
+        {
+          "color": "#ece3d8",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0216,
+        "stddevL": 0.016,
+        "topClusterWeight": 0.3776
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-glassine",
+      "name": "Glassine",
+      "series": "surface",
+      "tonalTier": "textile",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 19.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#d8bca7",
+          "pos": 0
+        },
+        {
+          "color": "#e4cebc",
+          "pos": 25
+        },
+        {
+          "color": "#e9d9c9",
+          "pos": 50
+        },
+        {
+          "color": "#ebdfd2",
+          "pos": 75
+        },
+        {
+          "color": "#ede3d9",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "warm",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0205,
+        "stddevL": 0.0155,
+        "topClusterWeight": 0.4606
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ss-slate",
+      "name": "Slate",
+      "series": "surface",
+      "tonalTier": "cool",
+      "source": "surface-supply",
+      "sourceFile": "foxrockettstudio - SURFACE SUPPLY 76.jpg",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Color values extracted via OKLCH k-means clustering from owned Fox Rockett Surface Supply textures (commercial license). Pixels not redistributed; only color values + provenance. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#606872",
+          "pos": 0
+        },
+        {
+          "color": "#636c76",
+          "pos": 25
+        },
+        {
+          "color": "#67717a",
+          "pos": 50
+        },
+        {
+          "color": "#6b767f",
+          "pos": 75
+        },
+        {
+          "color": "#737d86",
+          "pos": 100
+        }
+      ],
+      "tags": [
+        "neutral",
+        "pastel"
+      ],
+      "extraction": {
+        "meanChroma": 0.0186,
+        "stddevL": 0.0214,
+        "topClusterWeight": 0.2577
+      },
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ap-refraction",
+      "name": "Refraction",
+      "series": "aperture",
+      "tonalTier": "prismatic",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#6366f1",
+          "pos": 0
+        },
+        {
+          "color": "#7c3aed",
+          "pos": 25
+        },
+        {
+          "color": "#a855f7",
+          "pos": 50
+        },
+        {
+          "color": "#ec4899",
+          "pos": 75
+        },
+        {
+          "color": "#f97316",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ap-spectrum",
+      "name": "Spectrum",
+      "series": "aperture",
+      "tonalTier": "violet-ladder",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#4c1d95",
+          "pos": 0
+        },
+        {
+          "color": "#6d28d9",
+          "pos": 25
+        },
+        {
+          "color": "#7c3aed",
+          "pos": 50
+        },
+        {
+          "color": "#a78bfa",
+          "pos": 75
+        },
+        {
+          "color": "#c4b5fd",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ap-iris",
+      "name": "Iris",
+      "series": "aperture",
+      "tonalTier": "deep-bloom",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#1e1b4b",
+          "pos": 0
+        },
+        {
+          "color": "#4c1d95",
+          "pos": 33
+        },
+        {
+          "color": "#7c3aed",
+          "pos": 66
+        },
+        {
+          "color": "#a78bfa",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ap-aurora",
+      "name": "Aurora",
+      "series": "aperture",
+      "tonalTier": "violet-teal",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#7c3aed",
+          "pos": 0
+        },
+        {
+          "color": "#6366f1",
+          "pos": 33
+        },
+        {
+          "color": "#06b6d4",
+          "pos": 66
+        },
+        {
+          "color": "#0ea5e9",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ap-halo",
+      "name": "Halo",
+      "series": "aperture",
+      "tonalTier": "lift",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#7c3aed",
+          "pos": 0
+        },
+        {
+          "color": "#c4b5fd",
+          "pos": 33
+        },
+        {
+          "color": "#ede9fe",
+          "pos": 66
+        },
+        {
+          "color": "#ffffff",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ap-crown",
+      "name": "Crown",
+      "series": "aperture",
+      "tonalTier": "dark-to-brand",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#0a0a0f",
+          "pos": 0
+        },
+        {
+          "color": "#1e1b4b",
+          "pos": 33
+        },
+        {
+          "color": "#4c1d95",
+          "pos": 66
+        },
+        {
+          "color": "#7c3aed",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "st-dusk",
+      "name": "Dusk",
+      "series": "studio",
+      "tonalTier": "studio-twilight-palette",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#fbbf24",
+          "pos": 0
+        },
+        {
+          "color": "#f97316",
+          "pos": 25
+        },
+        {
+          "color": "#dc2626",
+          "pos": 50
+        },
+        {
+          "color": "#7c3aed",
+          "pos": 75
+        },
+        {
+          "color": "#1e1b4b",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": "studio-twilight-palette",
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "st-mascot",
+      "name": "Mascot",
+      "series": "studio",
+      "tonalTier": "studio-mono-palette",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#0a0a0f",
+          "pos": 0
+        },
+        {
+          "color": "#27272a",
+          "pos": 33
+        },
+        {
+          "color": "#7c3aed",
+          "pos": 66
+        },
+        {
+          "color": "#c4b5fd",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": "okaybabe-brand-canon",
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "st-caravan",
+      "name": "Caravan",
+      "series": "studio",
+      "tonalTier": "earth-to-dusk",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#fef3c7",
+          "pos": 0
+        },
+        {
+          "color": "#fbbf24",
+          "pos": 25
+        },
+        {
+          "color": "#7c3aed",
+          "pos": 75
+        },
+        {
+          "color": "#1e1b4b",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": "studio-secondary-palette",
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "st-outpost",
+      "name": "Outpost",
+      "series": "studio",
+      "tonalTier": "cold-mountain",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#0c4a6e",
+          "pos": 0
+        },
+        {
+          "color": "#0ea5e9",
+          "pos": 33
+        },
+        {
+          "color": "#7dd3fc",
+          "pos": 66
+        },
+        {
+          "color": "#e0f2fe",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": "po-cold-palette",
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "st-forge",
+      "name": "Forge",
+      "series": "studio",
+      "tonalTier": "industrial-warm",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#451a03",
+          "pos": 0
+        },
+        {
+          "color": "#92400e",
+          "pos": 33
+        },
+        {
+          "color": "#dc2626",
+          "pos": 66
+        },
+        {
+          "color": "#7c3aed",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": "okaybabe-original",
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "st-cohort",
+      "name": "Cohort",
+      "series": "studio",
+      "tonalTier": "celebratory",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#7c3aed",
+          "pos": 0
+        },
+        {
+          "color": "#ec4899",
+          "pos": 25
+        },
+        {
+          "color": "#f97316",
+          "pos": 50
+        },
+        {
+          "color": "#fbbf24",
+          "pos": 75
+        },
+        {
+          "color": "#84cc16",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": "okaybabe-community-palette",
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "vp-mist",
+      "name": "Mist",
+      "series": "vapor",
+      "tonalTier": "blue-violet-pastel",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#dbeafe",
+          "pos": 0
+        },
+        {
+          "color": "#e0e7ff",
+          "pos": 33
+        },
+        {
+          "color": "#ede9fe",
+          "pos": 66
+        },
+        {
+          "color": "#fae8ff",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "vp-haze",
+      "name": "Haze",
+      "series": "vapor",
+      "tonalTier": "warm-pastel",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#fef3c7",
+          "pos": 0
+        },
+        {
+          "color": "#fed7aa",
+          "pos": 33
+        },
+        {
+          "color": "#fecaca",
+          "pos": 66
+        },
+        {
+          "color": "#fbcfe8",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "vp-veil",
+      "name": "Veil",
+      "series": "vapor",
+      "tonalTier": "cool-pearl",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#f0f9ff",
+          "pos": 0
+        },
+        {
+          "color": "#e0e7ff",
+          "pos": 33
+        },
+        {
+          "color": "#f3e8ff",
+          "pos": 66
+        },
+        {
+          "color": "#fdf4ff",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "vp-lull",
+      "name": "Lull",
+      "series": "vapor",
+      "tonalTier": "mauve-pastel",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#fdf4ff",
+          "pos": 0
+        },
+        {
+          "color": "#f5d0fe",
+          "pos": 33
+        },
+        {
+          "color": "#e9d5ff",
+          "pos": 66
+        },
+        {
+          "color": "#ddd6fe",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "vp-drift",
+      "name": "Drift",
+      "series": "vapor",
+      "tonalTier": "spectrum-mist",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#bae6fd",
+          "pos": 0
+        },
+        {
+          "color": "#c7d2fe",
+          "pos": 33
+        },
+        {
+          "color": "#ddd6fe",
+          "pos": 66
+        },
+        {
+          "color": "#fae8ff",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ik-sumi",
+      "name": "Sumi",
+      "series": "ink",
+      "tonalTier": "monochrome",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#0a0a0f",
+          "pos": 0
+        },
+        {
+          "color": "#1f1f23",
+          "pos": 33
+        },
+        {
+          "color": "#a8a29e",
+          "pos": 66
+        },
+        {
+          "color": "#f5f5f4",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ik-reverb",
+      "name": "Reverb",
+      "series": "ink",
+      "tonalTier": "magenta-noir",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#0a0a0f",
+          "pos": 0
+        },
+        {
+          "color": "#831843",
+          "pos": 33
+        },
+        {
+          "color": "#db2777",
+          "pos": 66
+        },
+        {
+          "color": "#fce7f3",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ik-crash",
+      "name": "Crash",
+      "series": "ink",
+      "tonalTier": "chromatic-aberration",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#1e40af",
+          "pos": 0
+        },
+        {
+          "color": "#7c3aed",
+          "pos": 33
+        },
+        {
+          "color": "#dc2626",
+          "pos": 66
+        },
+        {
+          "color": "#fbbf24",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ik-cipher",
+      "name": "Cipher",
+      "series": "ink",
+      "tonalTier": "tech-green",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#022c22",
+          "pos": 0
+        },
+        {
+          "color": "#065f46",
+          "pos": 33
+        },
+        {
+          "color": "#10b981",
+          "pos": 66
+        },
+        {
+          "color": "#a7f3d0",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    },
+    {
+      "id": "ik-strobe",
+      "name": "Strobe",
+      "series": "ink",
+      "tonalTier": "split-pulse",
+      "source": "okaybabe-original",
+      "license": "okaybabe-proprietary",
+      "licenseNote": "Hand-authored okaybabe-original gradient. Pack distribution is MIT-licensed.",
+      "deg": 135,
+      "type": "linear",
+      "stops": [
+        {
+          "color": "#ffffff",
+          "pos": 0
+        },
+        {
+          "color": "#7c3aed",
+          "pos": 33
+        },
+        {
+          "color": "#000000",
+          "pos": 66
+        },
+        {
+          "color": "#7c3aed",
+          "pos": 100
+        }
+      ],
+      "tags": [],
+      "provenance": null,
+      "createdAt": "2026-05-21"
+    }
+  ]
+}

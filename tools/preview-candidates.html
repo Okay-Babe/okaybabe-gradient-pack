@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>okaybabe — Surface Supply candidate review</title>
+<style>
+  :root {
+    --bg: oklch(0.16 0.02 293);
+    --surface: oklch(0.2 0.025 293);
+    --text: oklch(0.98 0 0);
+    --muted: oklch(0.62 0.02 293);
+    --accent: #7C3AED;
+    --border: oklch(0.3 0.015 293);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2rem;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  header {
+    max-width: 1400px;
+    margin: 0 auto 2rem;
+  }
+  h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0 0 0.5rem;
+    letter-spacing: -0.02em;
+  }
+  .meta {
+    color: var(--muted);
+    font-size: 0.875rem;
+  }
+  .legend {
+    margin-top: 1rem;
+    padding: 1rem;
+    background: var(--surface);
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    font-size: 0.875rem;
+    line-height: 1.6;
+  }
+  .legend strong { color: var(--accent); }
+  .grid {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.5rem;
+  }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.2s, border-color 0.2s;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent);
+  }
+  .swatch {
+    height: 200px;
+    position: relative;
+  }
+  .swatch::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' seed='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.06 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+    mix-blend-mode: overlay;
+    opacity: 0.6;
+  }
+  .body {
+    padding: 1rem 1.25rem;
+  }
+  .name {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0 0 0.5rem;
+    letter-spacing: -0.01em;
+  }
+  .source {
+    color: var(--muted);
+    font-size: 0.75rem;
+    font-family: 'Geist Mono', 'JetBrains Mono', monospace;
+    margin-bottom: 0.75rem;
+  }
+  .stops {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    margin-bottom: 0.5rem;
+  }
+  .stop {
+    font-family: 'Geist Mono', 'JetBrains Mono', monospace;
+    font-size: 0.7rem;
+    padding: 0.125rem 0.375rem;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    color: var(--text);
+  }
+  .stats {
+    font-size: 0.7rem;
+    color: var(--muted);
+    font-family: 'Geist Mono', monospace;
+    display: flex;
+    gap: 0.75rem;
+  }
+  .tags {
+    margin-top: 0.5rem;
+  }
+  .tag {
+    display: inline-block;
+    padding: 0.125rem 0.5rem;
+    background: oklch(0.55 0.241 293 / 0.15);
+    color: oklch(0.85 0.1 293);
+    border-radius: 3px;
+    font-size: 0.7rem;
+    margin-right: 0.25rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .empty {
+    padding: 4rem 2rem;
+    text-align: center;
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Surface Supply — candidate review</h1>
+  <p class="meta" id="meta">Loading candidates...</p>
+  <div class="legend">
+    <strong>What you're looking at:</strong> OKLCH k-means color extraction from the Surface Supply 86 textures, tuned thresholds (chroma > 0.015, stddev-L > 0.015). 5-stop linear gradients at 135°. Subtle SVG <code>feTurbulence</code> grain overlay on each swatch matches what these will look like with the procedural texture layer applied. Hover for lift. Eye-test pass: identify your top 8 for the <strong>Surface Series</strong>.
+  </div>
+</header>
+<main class="grid" id="grid">
+  <div class="empty">Loading <code>data/okaybabe-custom-candidates.json</code>…</div>
+</main>
+<script type="module">
+  // Fetch the candidates JSON. Works locally only when opened via http(s) due to fetch CORS, so we inline-fallback.
+  const grid = document.getElementById('grid');
+  const meta = document.getElementById('meta');
+
+  async function load() {
+    let data = null;
+    try {
+      const r = await fetch('../data/okaybabe-custom-candidates.json');
+      if (r.ok) data = await r.json();
+    } catch {}
+    if (!data) {
+      grid.innerHTML = `
+        <div class="empty">
+          ⚠ Browser blocked fetching the local JSON (file:// CORS).<br><br>
+          <strong>Run a quick server instead:</strong><br>
+          <code style="color:#7C3AED">cd ~/Code/repos/okaybabe-gradient-pack && npx serve .</code><br>
+          Then open <code>http://localhost:3000/tools/preview-candidates.html</code>.<br><br>
+          Or use Python: <code>python3 -m http.server 8000</code> from the repo root.
+        </div>`;
+      return;
+    }
+    render(data);
+  }
+
+  function gradientCss(stops, deg) {
+    const s = stops.map(x => `${x.color} ${x.pos}%`).join(', ');
+    return `linear-gradient(${deg}deg, ${s})`;
+  }
+
+  function render(data) {
+    meta.textContent = `${data.length} candidates · sorted by chroma (most saturated first) · 5 stops at 135°`;
+    const sorted = [...data].sort((a, b) => b.meanChroma - a.meanChroma);
+    grid.innerHTML = sorted.map(g => `
+      <article class="card">
+        <div class="swatch" style="background: ${gradientCss(g.stops, g.deg)};"></div>
+        <div class="body">
+          <h3 class="name">${escape(g.name)}</h3>
+          <p class="source">${escape(g.sourceFile)}</p>
+          <div class="stops">
+            ${g.stops.map(s => `<span class="stop" style="background:${s.color};color:${s.pos > 50 ? '#000' : '#fff'};border:1px solid rgba(0,0,0,0.2)">${s.color}</span>`).join('')}
+          </div>
+          <div class="tags">
+            ${g.tags.map(t => `<span class="tag">${escape(t)}</span>`).join('')}
+          </div>
+          <div class="stats">
+            <span>chroma: ${g.meanChroma.toFixed(4)}</span>
+            <span>stddev-L: ${g.stddevL.toFixed(4)}</span>
+            <span>cluster: ${g.topClusterWeight.toFixed(3)}</span>
+          </div>
+        </div>
+      </article>
+    `).join('');
+  }
+
+  function escape(s) {
+    return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+  load();
+</script>
+</body>
+</html>

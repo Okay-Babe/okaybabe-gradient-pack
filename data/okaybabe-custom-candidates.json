@@ -1,0 +1,742 @@
+[
+  {
+    "id": "ss-surface-supply-10",
+    "name": "Surface 10",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 10.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#d0bfb1",
+        "pos": 0
+      },
+      {
+        "color": "#d6c6b8",
+        "pos": 25
+      },
+      {
+        "color": "#dacbbd",
+        "pos": 50
+      },
+      {
+        "color": "#ddcfc2",
+        "pos": 75
+      },
+      {
+        "color": "#e0d4c7",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0248,
+    "stddevL": 0.0161,
+    "topClusterWeight": 0.3123,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-11",
+    "name": "Surface 11",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 11.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#bc9c86",
+        "pos": 0
+      },
+      {
+        "color": "#d2beaf",
+        "pos": 25
+      },
+      {
+        "color": "#d7c7b9",
+        "pos": 50
+      },
+      {
+        "color": "#dbcdc1",
+        "pos": 75
+      },
+      {
+        "color": "#dfd2c7",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0228,
+    "stddevL": 0.0186,
+    "topClusterWeight": 0.4089,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-12",
+    "name": "Surface 12",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 12.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#d0b8a4",
+        "pos": 0
+      },
+      {
+        "color": "#d5bfad",
+        "pos": 25
+      },
+      {
+        "color": "#d9c4b1",
+        "pos": 50
+      },
+      {
+        "color": "#dbc8b7",
+        "pos": 75
+      },
+      {
+        "color": "#e0cebd",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.034,
+    "stddevL": 0.0174,
+    "topClusterWeight": 0.2969,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-13",
+    "name": "Surface 13",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 13.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#bf9386",
+        "pos": 0
+      },
+      {
+        "color": "#d2bfb2",
+        "pos": 25
+      },
+      {
+        "color": "#d8c8bd",
+        "pos": 50
+      },
+      {
+        "color": "#dccfc4",
+        "pos": 75
+      },
+      {
+        "color": "#e0d4ca",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0218,
+    "stddevL": 0.0256,
+    "topClusterWeight": 0.3206,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-14",
+    "name": "Surface 14",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 14.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#ceb39f",
+        "pos": 0
+      },
+      {
+        "color": "#d4bdab",
+        "pos": 25
+      },
+      {
+        "color": "#d8c3b3",
+        "pos": 50
+      },
+      {
+        "color": "#dac8b9",
+        "pos": 75
+      },
+      {
+        "color": "#decec0",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0306,
+    "stddevL": 0.0165,
+    "topClusterWeight": 0.3705,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-16",
+    "name": "Surface 16",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 16.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#e0c2a8",
+        "pos": 0
+      },
+      {
+        "color": "#e8d0ba",
+        "pos": 25
+      },
+      {
+        "color": "#ead8c6",
+        "pos": 50
+      },
+      {
+        "color": "#ebddcf",
+        "pos": 75
+      },
+      {
+        "color": "#ede2d6",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0281,
+    "stddevL": 0.0201,
+    "topClusterWeight": 0.2848,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-17",
+    "name": "Surface 17",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 17.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#dbbea6",
+        "pos": 0
+      },
+      {
+        "color": "#e5d0bc",
+        "pos": 25
+      },
+      {
+        "color": "#e9d9c9",
+        "pos": 50
+      },
+      {
+        "color": "#eaded2",
+        "pos": 75
+      },
+      {
+        "color": "#ece3d8",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0216,
+    "stddevL": 0.016,
+    "topClusterWeight": 0.3776,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-18",
+    "name": "Surface 18",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 18.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#dfc5b0",
+        "pos": 0
+      },
+      {
+        "color": "#e7d1be",
+        "pos": 25
+      },
+      {
+        "color": "#e9d7c6",
+        "pos": 50
+      },
+      {
+        "color": "#eadccd",
+        "pos": 75
+      },
+      {
+        "color": "#ebe0d4",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0271,
+    "stddevL": 0.0159,
+    "topClusterWeight": 0.2983,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-19",
+    "name": "Surface 19",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 19.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#d8bca7",
+        "pos": 0
+      },
+      {
+        "color": "#e4cebc",
+        "pos": 25
+      },
+      {
+        "color": "#e9d9c9",
+        "pos": 50
+      },
+      {
+        "color": "#ebdfd2",
+        "pos": 75
+      },
+      {
+        "color": "#ede3d9",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0205,
+    "stddevL": 0.0155,
+    "topClusterWeight": 0.4606,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-20",
+    "name": "Surface 20",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 20.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#ddc2ac",
+        "pos": 0
+      },
+      {
+        "color": "#e5d0bc",
+        "pos": 25
+      },
+      {
+        "color": "#e9d7c5",
+        "pos": 50
+      },
+      {
+        "color": "#eadccd",
+        "pos": 75
+      },
+      {
+        "color": "#ebe1d6",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0255,
+    "stddevL": 0.0171,
+    "topClusterWeight": 0.3109,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-22",
+    "name": "Surface 22",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 22.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#dcbea4",
+        "pos": 0
+      },
+      {
+        "color": "#e5cbb4",
+        "pos": 25
+      },
+      {
+        "color": "#e8d3bf",
+        "pos": 50
+      },
+      {
+        "color": "#eadac9",
+        "pos": 75
+      },
+      {
+        "color": "#ecdfd2",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0311,
+    "stddevL": 0.0212,
+    "topClusterWeight": 0.3151,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-23",
+    "name": "Surface 23",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 23.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#bda08a",
+        "pos": 0
+      },
+      {
+        "color": "#d5c3b4",
+        "pos": 25
+      },
+      {
+        "color": "#d9cabc",
+        "pos": 50
+      },
+      {
+        "color": "#dccfc2",
+        "pos": 75
+      },
+      {
+        "color": "#e0d4c8",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0238,
+    "stddevL": 0.0183,
+    "topClusterWeight": 0.3189,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-24",
+    "name": "Surface 24",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 24.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#d2bfaf",
+        "pos": 0
+      },
+      {
+        "color": "#d6c6b8",
+        "pos": 25
+      },
+      {
+        "color": "#d9cabd",
+        "pos": 50
+      },
+      {
+        "color": "#dccfc3",
+        "pos": 75
+      },
+      {
+        "color": "#dfd4c9",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0236,
+    "stddevL": 0.0161,
+    "topClusterWeight": 0.3019,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-28",
+    "name": "Surface 28",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 28.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#dcae82",
+        "pos": 0
+      },
+      {
+        "color": "#e2b68b",
+        "pos": 25
+      },
+      {
+        "color": "#e5be96",
+        "pos": 50
+      },
+      {
+        "color": "#e7c39f",
+        "pos": 75
+      },
+      {
+        "color": "#e9c7a4",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0655,
+    "stddevL": 0.0167,
+    "topClusterWeight": 0.4691,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-30",
+    "name": "Surface 30",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 30.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#90573f",
+        "pos": 0
+      },
+      {
+        "color": "#9f6d54",
+        "pos": 25
+      },
+      {
+        "color": "#ab7c63",
+        "pos": 50
+      },
+      {
+        "color": "#b3866c",
+        "pos": 75
+      },
+      {
+        "color": "#be9178",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0701,
+    "stddevL": 0.05,
+    "topClusterWeight": 0.3199,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-31",
+    "name": "Surface 31",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 31.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#894c35",
+        "pos": 0
+      },
+      {
+        "color": "#975f47",
+        "pos": 25
+      },
+      {
+        "color": "#a5755c",
+        "pos": 50
+      },
+      {
+        "color": "#b18369",
+        "pos": 75
+      },
+      {
+        "color": "#bd9077",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0722,
+    "stddevL": 0.0635,
+    "topClusterWeight": 0.3567,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-32",
+    "name": "Surface 32",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 32.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#834631",
+        "pos": 0
+      },
+      {
+        "color": "#90543e",
+        "pos": 25
+      },
+      {
+        "color": "#9c674e",
+        "pos": 50
+      },
+      {
+        "color": "#a9795f",
+        "pos": 75
+      },
+      {
+        "color": "#b5876d",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm",
+      "pastel"
+    ],
+    "meanChroma": 0.0767,
+    "stddevL": 0.0731,
+    "topClusterWeight": 0.2222,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-33",
+    "name": "Surface 33",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 33.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#82432e",
+        "pos": 0
+      },
+      {
+        "color": "#8e5039",
+        "pos": 25
+      },
+      {
+        "color": "#9a624a",
+        "pos": 50
+      },
+      {
+        "color": "#a9795f",
+        "pos": 75
+      },
+      {
+        "color": "#b5876d",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "warm"
+    ],
+    "meanChroma": 0.0806,
+    "stddevL": 0.0793,
+    "topClusterWeight": 0.2863,
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": "ss-surface-supply-76",
+    "name": "Surface 76",
+    "source": "surface-supply",
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 76.jpg",
+    "license": "okaybabe-proprietary",
+    "deg": 135,
+    "type": "linear",
+    "stops": [
+      {
+        "color": "#606872",
+        "pos": 0
+      },
+      {
+        "color": "#636c76",
+        "pos": 25
+      },
+      {
+        "color": "#67717a",
+        "pos": 50
+      },
+      {
+        "color": "#6b767f",
+        "pos": 75
+      },
+      {
+        "color": "#737d86",
+        "pos": 100
+      }
+    ],
+    "tags": [
+      "neutral",
+      "pastel"
+    ],
+    "meanChroma": 0.0186,
+    "stddevL": 0.0214,
+    "topClusterWeight": 0.2577,
+    "createdAt": "2026-05-21"
+  }
+]

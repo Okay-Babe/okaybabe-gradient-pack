@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1228 298" width="1228" height="298" role="img" aria-label="Vapor Series — Soft Pastel">
+  <defs><linearGradient id="g-vp-mist" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#dbeafe"/><stop offset="33%" stop-color="#e0e7ff"/><stop offset="66%" stop-color="#ede9fe"/><stop offset="100%" stop-color="#fae8ff"/></linearGradient><linearGradient id="g-vp-haze" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#fef3c7"/><stop offset="33%" stop-color="#fed7aa"/><stop offset="66%" stop-color="#fecaca"/><stop offset="100%" stop-color="#fbcfe8"/></linearGradient><linearGradient id="g-vp-veil" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#f0f9ff"/><stop offset="33%" stop-color="#e0e7ff"/><stop offset="66%" stop-color="#f3e8ff"/><stop offset="100%" stop-color="#fdf4ff"/></linearGradient><linearGradient id="g-vp-lull" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#fdf4ff"/><stop offset="33%" stop-color="#f5d0fe"/><stop offset="66%" stop-color="#e9d5ff"/><stop offset="100%" stop-color="#ddd6fe"/></linearGradient><linearGradient id="g-vp-drift" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#bae6fd"/><stop offset="33%" stop-color="#c7d2fe"/><stop offset="66%" stop-color="#ddd6fe"/><stop offset="100%" stop-color="#fae8ff"/></linearGradient><filter id="okb-grain" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3" stitchTiles="stitch"/>
+  <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.06 0"/>
+</filter></defs>
+  <rect width="1228" height="298" fill="#0A0A0F"/>
+  <text x="32" y="40" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="22" font-weight="700" fill="#FAFAFA">Vapor Series — Soft Pastel</text>
+  <text x="32" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#9CA3AF">5 gradients · 5 soft-pastel originals. Trend coverage without chasing.</text>
+  <g>
+      <rect x="32" y="64" width="220" height="110" rx="8" fill="url(#g-vp-mist)"/>
+      <rect x="32" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="32" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="32" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Mist</text>
+      <text x="32" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">#dbeafe → #e0e7ff → #ede9fe</text>
+    </g><g>
+      <rect x="268" y="64" width="220" height="110" rx="8" fill="url(#g-vp-haze)"/>
+      <rect x="268" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="268" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="268" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Haze</text>
+      <text x="268" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">#fef3c7 → #fed7aa → #fecaca</text>
+    </g><g>
+      <rect x="504" y="64" width="220" height="110" rx="8" fill="url(#g-vp-veil)"/>
+      <rect x="504" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="504" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="504" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Veil</text>
+      <text x="504" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">#f0f9ff → #e0e7ff → #f3e8ff</text>
+    </g><g>
+      <rect x="740" y="64" width="220" height="110" rx="8" fill="url(#g-vp-lull)"/>
+      <rect x="740" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="740" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="740" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Lull</text>
+      <text x="740" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">#fdf4ff → #f5d0fe → #e9d5ff</text>
+    </g><g>
+      <rect x="976" y="64" width="220" height="110" rx="8" fill="url(#g-vp-drift)"/>
+      <rect x="976" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="976" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="976" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Drift</text>
+      <text x="976" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">#bae6fd → #c7d2fe → #ddd6fe</text>
+    </g>
+</svg>

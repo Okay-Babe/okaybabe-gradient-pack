@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1228 468" width="1228" height="468" role="img" aria-label="Procedural texture filters — 10 SVG recipes">
+  <defs><filter id='proc-grain-fine' x='0' y='0' width='100%' height='100%'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' seed='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.08 0'/></filter><filter id='proc-oil-slick' x='-10%' y='-10%' width='120%' height='120%'><feTurbulence type='fractalNoise' baseFrequency='0.02' numOctaves='3' seed='11'/><feDisplacementMap in='SourceGraphic' scale='12' xChannelSelector='R' yChannelSelector='G'/></filter><filter id='proc-risograph' x='0' y='0' width='100%' height='100%'><feTurbulence type='fractalNoise' baseFrequency='0.05' numOctaves='1' seed='7' stitchTiles='stitch'/><feComponentTransfer><feFuncR type='discrete' tableValues='0 1'/><feFuncG type='discrete' tableValues='0 1'/><feFuncB type='discrete' tableValues='0 1'/></feComponentTransfer><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.18 0'/></filter><pattern id='proc-halftone' x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse'><circle cx='3' cy='3' r='1.1' fill='#0a0a0f' opacity='0.18'/></pattern><filter id='proc-chrome-warp' x='-15%' y='-15%' width='130%' height='130%'><feTurbulence type='turbulence' baseFrequency='0.01' numOctaves='2' seed='17'/><feDisplacementMap in='SourceGraphic' scale='20' xChannelSelector='R' yChannelSelector='G'/></filter><filter id='proc-vapor' x='0' y='0' width='100%' height='100%'><feTurbulence type='fractalNoise' baseFrequency='0.015' numOctaves='4' seed='23' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.06 0'/></filter><filter id='proc-ink-bleed' x='-5%' y='-5%' width='110%' height='110%'><feTurbulence type='fractalNoise' baseFrequency='0.08' numOctaves='2' seed='31'/><feMorphology operator='dilate' radius='0.6'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.22 0'/></filter><filter id='proc-noise-coarse' x='0' y='0' width='100%' height='100%'><feTurbulence type='fractalNoise' baseFrequency='0.4' numOctaves='2' seed='41' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.12 0'/></filter><pattern id='proc-scan-lines' x='0' y='0' width='3' height='3' patternUnits='userSpaceOnUse'><rect x='0' y='0' width='3' height='1' fill='#0a0a0f' opacity='0.12'/></pattern><filter id='proc-paper-fiber' x='0' y='0' width='100%' height='100%'><feTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='3' seed='53' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.10 0'/></filter></defs>
+  <rect width="1228" height="468" fill="#0A0A0F"/>
+  <text x="32" y="40" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="22" font-weight="700" fill="#FAFAFA">Procedural Textures — 10 SVG Filters</text>
+  <text x="32" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#9CA3AF">Each shown over brand-violet #7C3AED · drop over any gradient or element</text>
+  <g>
+      <rect x="32" y="64" width="220" height="110" rx="8" fill="#7C3AED"/>
+      <rect x="32" y="64" width="220" height="110" rx="8" filter="url(#proc-grain-fine)" style="mix-blend-mode:overlay"/>
+      <rect x="32" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="32" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Grain Fine</text>
+      <text x="32" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">grain-fine</text>
+    </g><g>
+      <rect x="268" y="64" width="220" height="110" rx="8" fill="#7C3AED"/>
+      <rect x="268" y="64" width="220" height="110" rx="8" filter="url(#proc-oil-slick)" style="mix-blend-mode:overlay"/>
+      <rect x="268" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="268" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Oil Slick</text>
+      <text x="268" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">oil-slick</text>
+    </g><g>
+      <rect x="504" y="64" width="220" height="110" rx="8" fill="#7C3AED"/>
+      <rect x="504" y="64" width="220" height="110" rx="8" filter="url(#proc-risograph)" style="mix-blend-mode:overlay"/>
+      <rect x="504" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="504" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Risograph</text>
+      <text x="504" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">risograph</text>
+    </g><g>
+      <rect x="740" y="64" width="220" height="110" rx="8" fill="#7C3AED"/>
+      <rect x="740" y="64" width="220" height="110" rx="8" filter="url(#proc-halftone)" style="mix-blend-mode:overlay"/>
+      <rect x="740" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="740" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Halftone</text>
+      <text x="740" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">halftone</text>
+    </g><g>
+      <rect x="976" y="64" width="220" height="110" rx="8" fill="#7C3AED"/>
+      <rect x="976" y="64" width="220" height="110" rx="8" filter="url(#proc-chrome-warp)" style="mix-blend-mode:overlay"/>
+      <rect x="976" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="976" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Chrome Warp</text>
+      <text x="976" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">chrome-warp</text>
+    </g><g>
+      <rect x="32" y="234" width="220" height="110" rx="8" fill="#7C3AED"/>
+      <rect x="32" y="234" width="220" height="110" rx="8" filter="url(#proc-vapor)" style="mix-blend-mode:overlay"/>
+      <rect x="32" y="234" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="32" y="362" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Vapor</text>
+      <text x="32" y="378" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">vapor</text>
+    </g><g>
+      <rect x="268" y="234" width="220" height="110" rx="8" fill="#7C3AED"/>
+      <rect x="268" y="234" width="220" height="110" rx="8" filter="url(#proc-ink-bleed)" style="mix-blend-mode:overlay"/>
+      <rect x="268" y="234" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="268" y="362" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Ink Bleed</text>
+      <text x="268" y="378" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">ink-bleed</text>
+    </g><g>
+      <rect x="504" y="234" width="220" height="110" rx="8" fill="#7C3AED"/>
+      <rect x="504" y="234" width="220" height="110" rx="8" filter="url(#proc-noise-coarse)" style="mix-blend-mode:overlay"/>
+      <rect x="504" y="234" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="504" y="362" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Noise Coarse</text>
+      <text x="504" y="378" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">noise-coarse</text>
+    </g><g>
+      <rect x="740" y="234" width="220" height="110" rx="8" fill="#7C3AED"/>
+      <rect x="740" y="234" width="220" height="110" rx="8" filter="url(#proc-scan-lines)" style="mix-blend-mode:overlay"/>
+      <rect x="740" y="234" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="740" y="362" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Scan Lines</text>
+      <text x="740" y="378" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">scan-lines</text>
+    </g><g>
+      <rect x="976" y="234" width="220" height="110" rx="8" fill="#7C3AED"/>
+      <rect x="976" y="234" width="220" height="110" rx="8" filter="url(#proc-paper-fiber)" style="mix-blend-mode:overlay"/>
+      <rect x="976" y="234" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="976" y="362" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Paper Fiber</text>
+      <text x="976" y="378" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">paper-fiber</text>
+    </g>
+</svg>

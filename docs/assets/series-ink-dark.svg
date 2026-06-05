@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1228 298" width="1228" height="298" role="img" aria-label="Ink Series — High-Contrast Editorial">
+  <defs><linearGradient id="g-ik-sumi" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#0a0a0f"/><stop offset="33%" stop-color="#1f1f23"/><stop offset="66%" stop-color="#a8a29e"/><stop offset="100%" stop-color="#f5f5f4"/></linearGradient><linearGradient id="g-ik-reverb" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#0a0a0f"/><stop offset="33%" stop-color="#831843"/><stop offset="66%" stop-color="#db2777"/><stop offset="100%" stop-color="#fce7f3"/></linearGradient><linearGradient id="g-ik-crash" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#1e40af"/><stop offset="33%" stop-color="#7c3aed"/><stop offset="66%" stop-color="#dc2626"/><stop offset="100%" stop-color="#fbbf24"/></linearGradient><linearGradient id="g-ik-cipher" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#022c22"/><stop offset="33%" stop-color="#065f46"/><stop offset="66%" stop-color="#10b981"/><stop offset="100%" stop-color="#a7f3d0"/></linearGradient><linearGradient id="g-ik-strobe" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#ffffff"/><stop offset="33%" stop-color="#7c3aed"/><stop offset="66%" stop-color="#000000"/><stop offset="100%" stop-color="#7c3aed"/></linearGradient><filter id="okb-grain" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3" stitchTiles="stitch"/>
+  <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.06 0"/>
+</filter></defs>
+  <rect width="1228" height="298" fill="#0A0A0F"/>
+  <text x="32" y="40" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="22" font-weight="700" fill="#FAFAFA">Ink Series — High-Contrast Editorial</text>
+  <text x="32" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#9CA3AF">5 gradients · 5 high-contrast duo-tones with chromatic aberration. Editorial / pitch-deck character.</text>
+  <g>
+      <rect x="32" y="64" width="220" height="110" rx="8" fill="url(#g-ik-sumi)"/>
+      <rect x="32" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="32" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="32" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Sumi</text>
+      <text x="32" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">#0a0a0f → #1f1f23 → #a8a29e</text>
+    </g><g>
+      <rect x="268" y="64" width="220" height="110" rx="8" fill="url(#g-ik-reverb)"/>
+      <rect x="268" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="268" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="268" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Reverb</text>
+      <text x="268" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">#0a0a0f → #831843 → #db2777</text>
+    </g><g>
+      <rect x="504" y="64" width="220" height="110" rx="8" fill="url(#g-ik-crash)"/>
+      <rect x="504" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="504" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="504" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Crash</text>
+      <text x="504" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">#1e40af → #7c3aed → #dc2626</text>
+    </g><g>
+      <rect x="740" y="64" width="220" height="110" rx="8" fill="url(#g-ik-cipher)"/>
+      <rect x="740" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="740" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="740" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Cipher</text>
+      <text x="740" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">#022c22 → #065f46 → #10b981</text>
+    </g><g>
+      <rect x="976" y="64" width="220" height="110" rx="8" fill="url(#g-ik-strobe)"/>
+      <rect x="976" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="976" y="64" width="220" height="110" rx="8" fill="none" stroke="#27272A" stroke-width="1"/>
+      <text x="976" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#FAFAFA">Strobe</text>
+      <text x="976" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#9CA3AF">#ffffff → #7c3aed → #000000</text>
+    </g>
+</svg>

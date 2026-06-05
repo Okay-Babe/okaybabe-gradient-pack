@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord — okaybabe community
+    url: https://discord.gg/uYZbByZSjr
+    about: Quick questions, ideas, or just hanging out
+  - name: Companion package — @okaybabe/shaders
+    url: https://github.com/Okay-Babe/okaybabe-shaders
+    about: Issues with the GLSL shaders specifically belong in the shaders repo

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1228 808" width="1228" height="808" role="img" aria-label="Surface Series — Paper Tones Library">
+  <defs><linearGradient id="g-ss-russet" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#82432e"/><stop offset="25%" stop-color="#8e5039"/><stop offset="50%" stop-color="#9a624a"/><stop offset="75%" stop-color="#a9795f"/><stop offset="100%" stop-color="#b5876d"/></linearGradient><linearGradient id="g-ss-sienna" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#834631"/><stop offset="25%" stop-color="#90543e"/><stop offset="50%" stop-color="#9c674e"/><stop offset="75%" stop-color="#a9795f"/><stop offset="100%" stop-color="#b5876d"/></linearGradient><linearGradient id="g-ss-tobacco" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#894c35"/><stop offset="25%" stop-color="#975f47"/><stop offset="50%" stop-color="#a5755c"/><stop offset="75%" stop-color="#b18369"/><stop offset="100%" stop-color="#bd9077"/></linearGradient><linearGradient id="g-ss-kraft" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#90573f"/><stop offset="25%" stop-color="#9f6d54"/><stop offset="50%" stop-color="#ab7c63"/><stop offset="75%" stop-color="#b3866c"/><stop offset="100%" stop-color="#be9178"/></linearGradient><linearGradient id="g-ss-champagne" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#dcae82"/><stop offset="25%" stop-color="#e2b68b"/><stop offset="50%" stop-color="#e5be96"/><stop offset="75%" stop-color="#e7c39f"/><stop offset="100%" stop-color="#e9c7a4"/></linearGradient><linearGradient id="g-ss-bone-paper" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#d0b8a4"/><stop offset="25%" stop-color="#d5bfad"/><stop offset="50%" stop-color="#d9c4b1"/><stop offset="75%" stop-color="#dbc8b7"/><stop offset="100%" stop-color="#e0cebd"/></linearGradient><linearGradient id="g-ss-buttermilk" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#dcbea4"/><stop offset="25%" stop-color="#e5cbb4"/><stop offset="50%" stop-color="#e8d3bf"/><stop offset="75%" stop-color="#eadac9"/><stop offset="100%" stop-color="#ecdfd2"/></linearGradient><linearGradient id="g-ss-cartridge" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#ceb39f"/><stop offset="25%" stop-color="#d4bdab"/><stop offset="50%" stop-color="#d8c3b3"/><stop offset="75%" stop-color="#dac8b9"/><stop offset="100%" stop-color="#decec0"/></linearGradient><linearGradient id="g-ss-bristol" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#e0c2a8"/><stop offset="25%" stop-color="#e8d0ba"/><stop offset="50%" stop-color="#ead8c6"/><stop offset="75%" stop-color="#ebddcf"/><stop offset="100%" stop-color="#ede2d6"/></linearGradient><linearGradient id="g-ss-onionskin" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#dfc5b0"/><stop offset="25%" stop-color="#e7d1be"/><stop offset="50%" stop-color="#e9d7c6"/><stop offset="75%" stop-color="#eadccd"/><stop offset="100%" stop-color="#ebe0d4"/></linearGradient><linearGradient id="g-ss-linen" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#ddc2ac"/><stop offset="25%" stop-color="#e5d0bc"/><stop offset="50%" stop-color="#e9d7c5"/><stop offset="75%" stop-color="#eadccd"/><stop offset="100%" stop-color="#ebe1d6"/></linearGradient><linearGradient id="g-ss-bond" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#d0bfb1"/><stop offset="25%" stop-color="#d6c6b8"/><stop offset="50%" stop-color="#dacbbd"/><stop offset="75%" stop-color="#ddcfc2"/><stop offset="100%" stop-color="#e0d4c7"/></linearGradient><linearGradient id="g-ss-mulberry" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#bda08a"/><stop offset="25%" stop-color="#d5c3b4"/><stop offset="50%" stop-color="#d9cabc"/><stop offset="75%" stop-color="#dccfc2"/><stop offset="100%" stop-color="#e0d4c8"/></linearGradient><linearGradient id="g-ss-eggshell" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#d2bfaf"/><stop offset="25%" stop-color="#d6c6b8"/><stop offset="50%" stop-color="#d9cabd"/><stop offset="75%" stop-color="#dccfc3"/><stop offset="100%" stop-color="#dfd4c9"/></linearGradient><linearGradient id="g-ss-cotton" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#bc9c86"/><stop offset="25%" stop-color="#d2beaf"/><stop offset="50%" stop-color="#d7c7b9"/><stop offset="75%" stop-color="#dbcdc1"/><stop offset="100%" stop-color="#dfd2c7"/></linearGradient><linearGradient id="g-ss-pulp" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#bf9386"/><stop offset="25%" stop-color="#d2bfb2"/><stop offset="50%" stop-color="#d8c8bd"/><stop offset="75%" stop-color="#dccfc4"/><stop offset="100%" stop-color="#e0d4ca"/></linearGradient><linearGradient id="g-ss-tracing" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#dbbea6"/><stop offset="25%" stop-color="#e5d0bc"/><stop offset="50%" stop-color="#e9d9c9"/><stop offset="75%" stop-color="#eaded2"/><stop offset="100%" stop-color="#ece3d8"/></linearGradient><linearGradient id="g-ss-glassine" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#d8bca7"/><stop offset="25%" stop-color="#e4cebc"/><stop offset="50%" stop-color="#e9d9c9"/><stop offset="75%" stop-color="#ebdfd2"/><stop offset="100%" stop-color="#ede3d9"/></linearGradient><linearGradient id="g-ss-slate" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#606872"/><stop offset="25%" stop-color="#636c76"/><stop offset="50%" stop-color="#67717a"/><stop offset="75%" stop-color="#6b767f"/><stop offset="100%" stop-color="#737d86"/></linearGradient><filter id="okb-grain" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3" stitchTiles="stitch"/>
+  <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.06 0"/>
+</filter></defs>
+  <rect width="1228" height="808" fill="#FAFAFA"/>
+  <text x="32" y="40" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="22" font-weight="700" fill="#0A0A0F">Surface Series — Paper Tones Library</text>
+  <text x="32" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#6B7280">19 gradients · 19 paper-tone gradients extracted from owned analog textures via OKLCH k-means. Earth · Champagne · Paper · Textile · Cool tiers.</text>
+  <g>
+      <rect x="32" y="64" width="220" height="110" rx="8" fill="url(#g-ss-russet)"/>
+      <rect x="32" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="32" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="32" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Russet</text>
+      <text x="32" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#82432e → #8e5039 → #9a624a</text>
+    </g><g>
+      <rect x="268" y="64" width="220" height="110" rx="8" fill="url(#g-ss-sienna)"/>
+      <rect x="268" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="268" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="268" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Sienna</text>
+      <text x="268" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#834631 → #90543e → #9c674e</text>
+    </g><g>
+      <rect x="504" y="64" width="220" height="110" rx="8" fill="url(#g-ss-tobacco)"/>
+      <rect x="504" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="504" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="504" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Tobacco</text>
+      <text x="504" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#894c35 → #975f47 → #a5755c</text>
+    </g><g>
+      <rect x="740" y="64" width="220" height="110" rx="8" fill="url(#g-ss-kraft)"/>
+      <rect x="740" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="740" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="740" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Kraft</text>
+      <text x="740" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#90573f → #9f6d54 → #ab7c63</text>
+    </g><g>
+      <rect x="976" y="64" width="220" height="110" rx="8" fill="url(#g-ss-champagne)"/>
+      <rect x="976" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="976" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="976" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Champagne</text>
+      <text x="976" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#dcae82 → #e2b68b → #e5be96</text>
+    </g><g>
+      <rect x="32" y="234" width="220" height="110" rx="8" fill="url(#g-ss-bone-paper)"/>
+      <rect x="32" y="234" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="32" y="234" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="32" y="362" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Bone Paper</text>
+      <text x="32" y="378" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#d0b8a4 → #d5bfad → #d9c4b1</text>
+    </g><g>
+      <rect x="268" y="234" width="220" height="110" rx="8" fill="url(#g-ss-buttermilk)"/>
+      <rect x="268" y="234" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="268" y="234" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="268" y="362" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Buttermilk</text>
+      <text x="268" y="378" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#dcbea4 → #e5cbb4 → #e8d3bf</text>
+    </g><g>
+      <rect x="504" y="234" width="220" height="110" rx="8" fill="url(#g-ss-cartridge)"/>
+      <rect x="504" y="234" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="504" y="234" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="504" y="362" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Cartridge</text>
+      <text x="504" y="378" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#ceb39f → #d4bdab → #d8c3b3</text>
+    </g><g>
+      <rect x="740" y="234" width="220" height="110" rx="8" fill="url(#g-ss-bristol)"/>
+      <rect x="740" y="234" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="740" y="234" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="740" y="362" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Bristol</text>
+      <text x="740" y="378" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#e0c2a8 → #e8d0ba → #ead8c6</text>
+    </g><g>
+      <rect x="976" y="234" width="220" height="110" rx="8" fill="url(#g-ss-onionskin)"/>
+      <rect x="976" y="234" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="976" y="234" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="976" y="362" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Onionskin</text>
+      <text x="976" y="378" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#dfc5b0 → #e7d1be → #e9d7c6</text>
+    </g><g>
+      <rect x="32" y="404" width="220" height="110" rx="8" fill="url(#g-ss-linen)"/>
+      <rect x="32" y="404" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="32" y="404" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="32" y="532" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Linen</text>
+      <text x="32" y="548" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#ddc2ac → #e5d0bc → #e9d7c5</text>
+    </g><g>
+      <rect x="268" y="404" width="220" height="110" rx="8" fill="url(#g-ss-bond)"/>
+      <rect x="268" y="404" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="268" y="404" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="268" y="532" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Bond</text>
+      <text x="268" y="548" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#d0bfb1 → #d6c6b8 → #dacbbd</text>
+    </g><g>
+      <rect x="504" y="404" width="220" height="110" rx="8" fill="url(#g-ss-mulberry)"/>
+      <rect x="504" y="404" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="504" y="404" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="504" y="532" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Mulberry</text>
+      <text x="504" y="548" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#bda08a → #d5c3b4 → #d9cabc</text>
+    </g><g>
+      <rect x="740" y="404" width="220" height="110" rx="8" fill="url(#g-ss-eggshell)"/>
+      <rect x="740" y="404" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="740" y="404" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="740" y="532" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Eggshell</text>
+      <text x="740" y="548" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#d2bfaf → #d6c6b8 → #d9cabd</text>
+    </g><g>
+      <rect x="976" y="404" width="220" height="110" rx="8" fill="url(#g-ss-cotton)"/>
+      <rect x="976" y="404" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="976" y="404" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="976" y="532" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Cotton</text>
+      <text x="976" y="548" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#bc9c86 → #d2beaf → #d7c7b9</text>
+    </g><g>
+      <rect x="32" y="574" width="220" height="110" rx="8" fill="url(#g-ss-pulp)"/>
+      <rect x="32" y="574" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="32" y="574" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="32" y="702" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Pulp</text>
+      <text x="32" y="718" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#bf9386 → #d2bfb2 → #d8c8bd</text>
+    </g><g>
+      <rect x="268" y="574" width="220" height="110" rx="8" fill="url(#g-ss-tracing)"/>
+      <rect x="268" y="574" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="268" y="574" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="268" y="702" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Tracing</text>
+      <text x="268" y="718" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#dbbea6 → #e5d0bc → #e9d9c9</text>
+    </g><g>
+      <rect x="504" y="574" width="220" height="110" rx="8" fill="url(#g-ss-glassine)"/>
+      <rect x="504" y="574" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="504" y="574" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="504" y="702" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Glassine</text>
+      <text x="504" y="718" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#d8bca7 → #e4cebc → #e9d9c9</text>
+    </g><g>
+      <rect x="740" y="574" width="220" height="110" rx="8" fill="url(#g-ss-slate)"/>
+      <rect x="740" y="574" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="740" y="574" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="740" y="702" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Slate</text>
+      <text x="740" y="718" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#606872 → #636c76 → #67717a</text>
+    </g>
+</svg>

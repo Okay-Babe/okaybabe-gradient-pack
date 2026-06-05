@@ -1,0 +1,56 @@
+{
+  "name": "okaybabe-gradient-pack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Free gradient + texture + shader pack from the okaybabe studio — 64 okaybabe-original assets (41 gradients + 10 procedural textures + 13 GLSL shaders), MIT license, hosted at okaybabe.com/gradients",
+  "license": "MIT",
+  "author": "Okay Babe, LLC <hello@okaybabe.com> (https://okaybabe.com)",
+  "homepage": "https://github.com/Okay-Babe/okaybabe-gradient-pack",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Okay-Babe/okaybabe-gradient-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Okay-Babe/okaybabe-gradient-pack/issues"
+  },
+  "keywords": [
+    "gradients",
+    "design-tokens",
+    "sketch",
+    "figma",
+    "tailwind",
+    "css",
+    "glsl",
+    "shaders",
+    "design-system",
+    "oklch",
+    "color-palette",
+    "mit",
+    "free",
+    "okaybabe"
+  ],
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "packageManager": "pnpm@9.0.0",
+  "scripts": {
+    "extract": "tsx scripts/extract-colors.ts",
+    "extract:dry": "tsx scripts/extract-colors.ts --dry-run --verbose",
+    "extract:verbose": "tsx scripts/extract-colors.ts --verbose",
+    "build:packs": "tsx scripts/build-packs.ts",
+    "typecheck": "tsc --noEmit",
+    "build:readme": "tsx scripts/build-readme-assets.ts"
+  },
+  "dependencies": {
+    "culori": "^4.0.1",
+    "ml-kmeans": "^7.0.0",
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "@types/culori": "^4.0.1",
+    "@types/node": "^25.9.1",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  }
+}

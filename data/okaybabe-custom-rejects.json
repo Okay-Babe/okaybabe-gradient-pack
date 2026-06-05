@@ -1,0 +1,450 @@
+[
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 1.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0375,
+    "stddevL": 0.0102,
+    "topClusterWeight": 0.4066
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 15.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.02,
+    "stddevL": 0.0142,
+    "topClusterWeight": 0.3782
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 2.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0593,
+    "stddevL": 0.0073,
+    "topClusterWeight": 0.3859
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 21.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0194,
+    "stddevL": 0.0106,
+    "topClusterWeight": 0.3988
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 25.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.1565,
+    "stddevL": 0.0053,
+    "topClusterWeight": 0.3079
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 26.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0183,
+    "stddevL": 0.0085,
+    "topClusterWeight": 0.3951
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 27.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0113,
+    "stddevL": 0.0097,
+    "topClusterWeight": 0.4131
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 29.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0391,
+    "stddevL": 0.0107,
+    "topClusterWeight": 0.5061
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 3.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0039,
+    "stddevL": 0.0027,
+    "topClusterWeight": 0.431
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 34.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0547,
+    "stddevL": 0.0125,
+    "topClusterWeight": 0.3524
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 35.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0555,
+    "stddevL": 0.0097,
+    "topClusterWeight": 0.3832
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 36.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0558,
+    "stddevL": 0.0123,
+    "topClusterWeight": 0.4399
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 37.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0557,
+    "stddevL": 0.0119,
+    "topClusterWeight": 0.3598
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 38.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0074,
+    "stddevL": 0.0187,
+    "topClusterWeight": 0.3349
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 39.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.004,
+    "stddevL": 0.0134,
+    "topClusterWeight": 0.4181
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 4.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0071,
+    "stddevL": 0.007,
+    "topClusterWeight": 0.4418
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 40.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0094,
+    "stddevL": 0.0065,
+    "topClusterWeight": 0.3784
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 41.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0089,
+    "stddevL": 0.0093,
+    "topClusterWeight": 0.4251
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 42.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0602,
+    "stddevL": 0.0124,
+    "topClusterWeight": 0.3092
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 43.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.023,
+    "stddevL": 0.0071,
+    "topClusterWeight": 0.3497
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 44.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0432,
+    "stddevL": 0.0112,
+    "topClusterWeight": 0.3533
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 45.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0564,
+    "stddevL": 0.0076,
+    "topClusterWeight": 0.3147
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 46.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0103,
+    "stddevL": 0.0113,
+    "topClusterWeight": 0.4691
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 47.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0321,
+    "stddevL": 0.0077,
+    "topClusterWeight": 0.4746
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 48.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0311,
+    "stddevL": 0.008,
+    "topClusterWeight": 0.4549
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 49.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0305,
+    "stddevL": 0.0087,
+    "topClusterWeight": 0.476
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 5.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0154,
+    "stddevL": 0.0033,
+    "topClusterWeight": 0.3947
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 50.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0303,
+    "stddevL": 0.0098,
+    "topClusterWeight": 0.4362
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 51.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0124,
+    "stddevL": 0.0135,
+    "topClusterWeight": 0.5194
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 52.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0103,
+    "stddevL": 0.0099,
+    "topClusterWeight": 0.4286
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 53.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0148,
+    "stddevL": 0.0117,
+    "topClusterWeight": 0.3422
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 54.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0127,
+    "stddevL": 0.0171,
+    "topClusterWeight": 0.496
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 55.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.011,
+    "stddevL": 0.0146,
+    "topClusterWeight": 0.327
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 56.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0147,
+    "stddevL": 0.006,
+    "topClusterWeight": 0.4065
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 57.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0151,
+    "stddevL": 0.0067,
+    "topClusterWeight": 0.3105
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 58.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0054,
+    "stddevL": 0.0058,
+    "topClusterWeight": 0.2772
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 59.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0079,
+    "stddevL": 0.0081,
+    "topClusterWeight": 0.2678
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 6.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0416,
+    "stddevL": 0.0091,
+    "topClusterWeight": 0.3587
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 60.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0055,
+    "stddevL": 0.0114,
+    "topClusterWeight": 0.3324
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 61.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0064,
+    "stddevL": 0.0149,
+    "topClusterWeight": 0.3345
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 62.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0078,
+    "stddevL": 0.0365,
+    "topClusterWeight": 0.8366
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 63.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0081,
+    "stddevL": 0.0107,
+    "topClusterWeight": 0.4232
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 64.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0099,
+    "stddevL": 0.0101,
+    "topClusterWeight": 0.3778
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 65.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0082,
+    "stddevL": 0.0166,
+    "topClusterWeight": 0.2898
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 66.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0105,
+    "stddevL": 0.0125,
+    "topClusterWeight": 0.3631
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 67.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0103,
+    "stddevL": 0.0122,
+    "topClusterWeight": 0.3001
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 68.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.008,
+    "stddevL": 0.0135,
+    "topClusterWeight": 0.3826
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 69.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0086,
+    "stddevL": 0.0166,
+    "topClusterWeight": 0.3728
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 7.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0696,
+    "stddevL": 0.0084,
+    "topClusterWeight": 0.2793
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 70.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0093,
+    "stddevL": 0.011,
+    "topClusterWeight": 0.4412
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 71.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0085,
+    "stddevL": 0.0104,
+    "topClusterWeight": 0.279
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 72.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0103,
+    "stddevL": 0.0135,
+    "topClusterWeight": 0.331
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 73.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.009,
+    "stddevL": 0.0079,
+    "topClusterWeight": 0.332
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 74.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0087,
+    "stddevL": 0.0123,
+    "topClusterWeight": 0.3648
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 75.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0039,
+    "stddevL": 0.0438,
+    "topClusterWeight": 0.341
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 77.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0131,
+    "stddevL": 0.0076,
+    "topClusterWeight": 0.538
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 78.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0076,
+    "stddevL": 0.0179,
+    "topClusterWeight": 0.3878
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 79.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.004,
+    "stddevL": 0.0214,
+    "topClusterWeight": 0.3437
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 8.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0455,
+    "stddevL": 0.0133,
+    "topClusterWeight": 0.3178
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 80.jpg",
+    "reason": "Truly monotone (mean chroma < 0.015)",
+    "meanChroma": 0.0041,
+    "stddevL": 0.0126,
+    "topClusterWeight": 0.4056
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 81.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0743,
+    "stddevL": 0.0117,
+    "topClusterWeight": 0.3225
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 82.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0776,
+    "stddevL": 0.0148,
+    "topClusterWeight": 0.3309
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 83.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0745,
+    "stddevL": 0.0114,
+    "topClusterWeight": 0.3142
+  },
+  {
+    "sourceFile": "foxrockettstudio - SURFACE SUPPLY 9.jpg",
+    "reason": "Truly flat luminance (stddev L < 0.015)",
+    "meanChroma": 0.0227,
+    "stddevL": 0.0137,
+    "topClusterWeight": 0.3125
+  }
+]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1228 468" width="1228" height="468" role="img" aria-label="Aperture Series — Prismatic Anchor">
+  <defs><linearGradient id="g-ap-refraction" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#6366f1"/><stop offset="25%" stop-color="#7c3aed"/><stop offset="50%" stop-color="#a855f7"/><stop offset="75%" stop-color="#ec4899"/><stop offset="100%" stop-color="#f97316"/></linearGradient><linearGradient id="g-ap-spectrum" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#4c1d95"/><stop offset="25%" stop-color="#6d28d9"/><stop offset="50%" stop-color="#7c3aed"/><stop offset="75%" stop-color="#a78bfa"/><stop offset="100%" stop-color="#c4b5fd"/></linearGradient><linearGradient id="g-ap-iris" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#1e1b4b"/><stop offset="33%" stop-color="#4c1d95"/><stop offset="66%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#a78bfa"/></linearGradient><linearGradient id="g-ap-aurora" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#7c3aed"/><stop offset="33%" stop-color="#6366f1"/><stop offset="66%" stop-color="#06b6d4"/><stop offset="100%" stop-color="#0ea5e9"/></linearGradient><linearGradient id="g-ap-halo" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#7c3aed"/><stop offset="33%" stop-color="#c4b5fd"/><stop offset="66%" stop-color="#ede9fe"/><stop offset="100%" stop-color="#ffffff"/></linearGradient><linearGradient id="g-ap-crown" x1="-0.0000" y1="0.0000" x2="1.0000" y2="1.0000"><stop offset="0%" stop-color="#0a0a0f"/><stop offset="33%" stop-color="#1e1b4b"/><stop offset="66%" stop-color="#4c1d95"/><stop offset="100%" stop-color="#7c3aed"/></linearGradient><filter id="okb-grain" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3" stitchTiles="stitch"/>
+  <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.06 0"/>
+</filter></defs>
+  <rect width="1228" height="468" fill="#FAFAFA"/>
+  <text x="32" y="40" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="22" font-weight="700" fill="#0A0A0F">Aperture Series — Prismatic Anchor</text>
+  <text x="32" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#6B7280">6 gradients · 6 hand-crafted prismatic gradients anchored to the okaybabe brand (#7C3AED violet-600 + indigo #6366F1). Hero series — the brand identity wash.</text>
+  <g>
+      <rect x="32" y="64" width="220" height="110" rx="8" fill="url(#g-ap-refraction)"/>
+      <rect x="32" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="32" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="32" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Refraction</text>
+      <text x="32" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#6366f1 → #7c3aed → #a855f7</text>
+    </g><g>
+      <rect x="268" y="64" width="220" height="110" rx="8" fill="url(#g-ap-spectrum)"/>
+      <rect x="268" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="268" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="268" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Spectrum</text>
+      <text x="268" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#4c1d95 → #6d28d9 → #7c3aed</text>
+    </g><g>
+      <rect x="504" y="64" width="220" height="110" rx="8" fill="url(#g-ap-iris)"/>
+      <rect x="504" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="504" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="504" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Iris</text>
+      <text x="504" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#1e1b4b → #4c1d95 → #7c3aed</text>
+    </g><g>
+      <rect x="740" y="64" width="220" height="110" rx="8" fill="url(#g-ap-aurora)"/>
+      <rect x="740" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="740" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="740" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Aurora</text>
+      <text x="740" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#7c3aed → #6366f1 → #06b6d4</text>
+    </g><g>
+      <rect x="976" y="64" width="220" height="110" rx="8" fill="url(#g-ap-halo)"/>
+      <rect x="976" y="64" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="976" y="64" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="976" y="192" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Halo</text>
+      <text x="976" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#7c3aed → #c4b5fd → #ede9fe</text>
+    </g><g>
+      <rect x="32" y="234" width="220" height="110" rx="8" fill="url(#g-ap-crown)"/>
+      <rect x="32" y="234" width="220" height="110" rx="8" filter="url(#okb-grain)" opacity="0.5" style="mix-blend-mode:overlay"/>
+      <rect x="32" y="234" width="220" height="110" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="32" y="362" font-family="system-ui,-apple-system,Inter,sans-serif" font-size="13" font-weight="600" fill="#0A0A0F">Crown</text>
+      <text x="32" y="378" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#6B7280">#0a0a0f → #1e1b4b → #4c1d95</text>
+    </g>
+</svg>
