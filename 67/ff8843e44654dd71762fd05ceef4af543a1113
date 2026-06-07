@@ -1,0 +1,28 @@
+README.md
+  s_04fa70c5d44e45::t_301436a3c70c99 261
+  s_9cd16ecc201635::t_4eae3d38b1bc71 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "67ff8843e44654dd71762fd05ceef4af543a1113",
+  "prompts": {},
+  "sessions": {
+    "s_04fa70c5d44e45": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "28aa0055-fd4c-47d9-a95e-3900f62c6044",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "prettycolor <bradleysspaulding@gmail.com>"
+    },
+    "s_9cd16ecc201635": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "0889f189-28f9-4465-bb60-86c621e62e59",
+        "model": "composer-2.5"
+      },
+      "human_author": "prettycolor <bradleysspaulding@gmail.com>"
+    }
+  }
+}
