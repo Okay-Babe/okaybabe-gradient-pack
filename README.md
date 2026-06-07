@@ -17,7 +17,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-7C3AED?style=for-the-badge)](LICENSE)
 [![Download Pack](https://img.shields.io/badge/Download_Pack_→-7C3AED?style=for-the-badge)](https://okaybabe.com/gradients)
-[![Figma Community](https://img.shields.io/badge/Figma_Community-18181B?style=for-the-badge&logo=figma&logoColor=white)](https://okaybabe.com/gradients)
+[![Figma Community](https://img.shields.io/badge/Figma_Community-18181B?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/1644524450593985939/okaybabe-gradient-pack-v1-0-0)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uYZbByZSjr)
 
 <br>
@@ -258,7 +258,7 @@ pnpm build:packs   # generate all download formats → dist/downloads/
 
 <sub>the design studio that ships end-to-end.</sub>
 
-We design and ship one CRM and a small number of client projects each year. This pack is part of how we share back. Free, MIT, no attribution required — use it anywhere, including in things you ship to your customers.
+We design, build, host, and rank a small number of custom sites a year. This pack is part of how we share back. Free, MIT, no attribution required — use it anywhere, including in things you ship to your customers.
 
 [**okaybabe.com**](https://okaybabe.com) · [**Discord**](https://discord.gg/uYZbByZSjr) · [**Companion: @okaybabe/shaders**](https://github.com/Okay-Babe/okaybabe-shaders)
 
