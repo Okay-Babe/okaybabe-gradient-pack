@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "culori": "^4.0.1",
-    "ml-kmeans": "^7.0.0",
+    "ml-kmeans": "^7.0.1",
     "sharp": "^0.34.5"
   },
   "devDependencies": {

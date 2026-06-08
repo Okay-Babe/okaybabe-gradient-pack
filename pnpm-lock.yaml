@@ -12,8 +12,8 @@ importers:
         specifier: ^4.0.1
         version: 4.0.2
       ml-kmeans:
-        specifier: ^7.0.0
-        version: 7.0.0
+        specifier: ^7.0.1
+        version: 7.0.1
       sharp:
         specifier: ^0.34.5
         version: 0.34.5
@@ -335,6 +335,12 @@ packages:
   '@types/node@25.9.1':
     resolution: {integrity: sha512-xfrlY7UD5rMJk3ZVJP8BNzS28J36YJg+xp+LPXV1TdWxr8uMH5A860QNxYDGQe/ylDSgjxE52Q9VnO7p75tJxg==}
 
+  binary-search@1.3.6:
+    resolution: {integrity: sha512-nbE1WxOTTrUWIfsfZ4aHGYu5DOuNkbxGokjV6Z2kxfJK3uaAb8zNK1muzOeipoLHZjInT4Br88BHpzevc681xA==}
+
+  cheminfo-types@1.15.0:
+    resolution: {integrity: sha512-shv45WN2u0yN9EHH1bisNrv+fy4Cw+eLM5lOoriP67mePrwbHZ1kJqg90C8GEU7K1A8gJsicEoVZHcuBbuul/w==}
+
   culori@4.0.2:
     resolution: {integrity: sha512-1+BhOB8ahCn4O0cep0Sh2l9KCOfOdY+BXJnKMHFFzDEouSr/el18QwXEMRlOj9UY5nCeA8UN3a/82rUWRBeyBw==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
@@ -347,6 +353,9 @@ packages:
     resolution: {integrity: sha512-sNR9MHpXSUV/XB4zmsFKN+QgVG82Cc7+/aaxJ8Adi8hyOac+EXptIp45QBPaVyX3N70664wRbTcLTOemCAnyqw==}
     engines: {node: '>=18'}
     hasBin: true
+
+  fft.js@4.0.4:
+    resolution: {integrity: sha512-f9c00hphOgeQTlDyavwTtu6RiK8AIFjD6+jvXkNkpeQ7rirK3uFWVpalkoS4LAwbdX7mfZ8aoBfFVQX1Re/8aw==}
 
   fsevents@2.3.3:
     resolution: {integrity: sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==}
@@ -368,8 +377,8 @@ packages:
   ml-distance-euclidean@3.0.1:
     resolution: {integrity: sha512-jEEu/1a73ArPmIiwOzrcah6TfhtV19dCKnnM7JvdR2xTzyVJFGgIIR78Vg8Pl9z2NVeSRoFOpzc0910sPMINsA==}
 
-  ml-kmeans@7.0.0:
-    resolution: {integrity: sha512-Ud8x4YMURVgupAcuSxD9iwc/us4mqyryFnx08gjEGfAyP1iWlJSdBADD96PlpkpHUvRVDNEmk28euGQJZeuU7A==}
+  ml-kmeans@7.0.1:
+    resolution: {integrity: sha512-yrBTntVdMf9gdMQnHBY1HQ5IhFdTAW8hcUhagiktqmx3lwR8VC2ONyP9oJfaVzMkummOd/XKgT64E2DgJlmfrQ==}
 
   ml-matrix@6.12.2:
     resolution: {integrity: sha512-GC+BnW+pBh8Auap8goAxY0senAmF0IEoc3HNVSfnfbvGw0buuDIYb9kAKMS1l+GiwJ1rfK2bzJ8IHhwjzATSFA==}
@@ -379,6 +388,9 @@ packages:
 
   ml-random@2.0.0:
     resolution: {integrity: sha512-/ziHm0qyvsvwRy0y+EhmhTKbvq+9ghqf9UYSexKeyx8pp+9avDBLctYaopdTaJ1HU4qnJPEy7XH0CVeh9tHIgQ==}
+
+  ml-spectra-processing@14.29.0:
+    resolution: {integrity: sha512-825CS864krbjMv7OB0mbjgAmyOL5ymj1OGa0gAzz1h1Dcd3Eeol2DaOimSiPYmRhW+iYhpeQnb7cSU0mlSK6+g==}
 
   ml-xsadd@3.0.1:
     resolution: {integrity: sha512-Fz2q6dwgzGM8wYKGArTUTZDGa4lQFA2Vi6orjGeTVRy22ZnQFKlJuwS9n8NRviqz1KHAHAzdKJwbnYhdo38uYg==}
@@ -595,6 +607,10 @@ snapshots:
     dependencies:
       undici-types: 7.24.6
 
+  binary-search@1.3.6: {}
+
+  cheminfo-types@1.15.0: {}
+
   culori@4.0.2: {}
 
   detect-libc@2.1.2: {}
@@ -628,6 +644,8 @@ snapshots:
       '@esbuild/win32-ia32': 0.28.0
       '@esbuild/win32-x64': 0.28.0
 
+  fft.js@4.0.4: {}
+
   fsevents@2.3.3:
     optional: true
 
@@ -649,12 +667,13 @@ snapshots:
 
   ml-distance-euclidean@3.0.1: {}
 
-  ml-kmeans@7.0.0:
+  ml-kmeans@7.0.1:
     dependencies:
       ml-distance-euclidean: 3.0.1
       ml-matrix: 6.12.2
       ml-nearest-vector: 3.0.1
       ml-random: 2.0.0
+      ml-spectra-processing: 14.29.0
 
   ml-matrix@6.12.2:
     dependencies:
@@ -667,6 +686,15 @@ snapshots:
 
   ml-random@2.0.0:
     dependencies:
+      ml-xsadd: 3.0.1
+
+  ml-spectra-processing@14.29.0:
+    dependencies:
+      binary-search: 1.3.6
+      cheminfo-types: 1.15.0
+      fft.js: 4.0.4
+      is-any-array: 3.0.0
+      ml-matrix: 6.12.2
       ml-xsadd: 3.0.1
 
   ml-xsadd@3.0.1: {}
