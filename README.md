@@ -1,10 +1,10 @@
-<!-- okaybabe gradient pack — README -->
+<!-- okaybabe gradient pack: README -->
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner-dark.svg">
-  <img src="docs/assets/banner-light.svg" alt="okaybabe gradient pack — 41 gradients · 10 procedural textures · 13 GLSL shaders · MIT" width="100%">
+  <img src="docs/assets/banner-light.svg" alt="okaybabe gradient pack: 41 gradients · 10 procedural textures · 13 GLSL shaders · MIT" width="100%">
 </picture>
 
 <br>
@@ -18,7 +18,6 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-7C3AED?style=for-the-badge)](LICENSE)
 [![Download Pack](https://img.shields.io/badge/Download_Pack_→-7C3AED?style=for-the-badge)](https://okaybabe.com/gradients)
 [![Figma Community](https://img.shields.io/badge/Figma_Community-18181B?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/1644524450593985939/okaybabe-gradient-pack-v1-0-0)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uYZbByZSjr)
 
 <br>
 
@@ -49,7 +48,7 @@ A free, MIT-licensed gradient + texture + shader pack from [the okaybabe studio]
 <tr>
 <td><b>Procedural textures</b></td>
 <td><code>10</code></td>
-<td>SVG <code>feTurbulence</code> filter recipes. Layer over any gradient — or anything else.</td>
+<td>SVG <code>feTurbulence</code> filter recipes. Layer over any gradient, or anything else.</td>
 </tr>
 <tr>
 <td><b>GLSL shaders</b></td>
@@ -68,72 +67,72 @@ A free, MIT-licensed gradient + texture + shader pack from [the okaybabe studio]
 
 ---
 
-## Aperture Series — Prismatic Anchor
+## Aperture Series: Prismatic Anchor
 
-6 hand-crafted prismatic gradients anchored to the okaybabe brand (`#7C3AED` violet-600 + indigo `#6366F1`). Hero series — the brand identity wash. From the full-spectrum **Refraction** to the deep regal **Crown** and the bright **Halo** lift.
+6 hand-crafted prismatic gradients anchored to the okaybabe brand (`#7C3AED` violet-600 + indigo `#6366F1`). Hero series: the brand identity wash. From the full-spectrum **Refraction** to the deep regal **Crown** and the bright **Halo** lift.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/assets/series-aperture-dark.svg">
-  <img src="docs/assets/series-aperture-light.svg" alt="Aperture Series — 6 prismatic gradients" width="100%">
+  <img src="docs/assets/series-aperture-light.svg" alt="Aperture Series: 6 prismatic gradients" width="100%">
 </picture>
 
 <br>
 
 ---
 
-## Surface Series — Paper Tones Library
+## Surface Series: Paper Tones Library
 
-19 paper-tone gradients extracted from owned analog textures via OKLCH k-means clustering. Earth · Champagne · Paper · Textile · Cool tiers. Subtle by design — pair with the `grain-fine` or `paper-fiber` procedural filter for the okaybabe signature look.
+19 paper-tone gradients extracted from owned analog textures via OKLCH k-means clustering. Earth · Champagne · Paper · Textile · Cool tiers. Subtle by design. Pair with the `grain-fine` or `paper-fiber` procedural filter for the okaybabe signature look.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/assets/series-surface-dark.svg">
-  <img src="docs/assets/series-surface-light.svg" alt="Surface Series — 19 paper-tone gradients" width="100%">
+  <img src="docs/assets/series-surface-light.svg" alt="Surface Series: 19 paper-tone gradients" width="100%">
 </picture>
 
 <br>
 
 ---
 
-## Studio Series — Palettes From the Field
+## Studio Series: Palettes From the Field
 
-6 gradients distilled from real okaybabe studio engagements — twilight palettes (**Dusk** / **Caravan** / **Outpost**), brand canon (**Mascot**), and original studio palettes (**Forge** / **Cohort**). Portfolio breadcrumbs that double as palettes.
+6 gradients distilled from real okaybabe studio engagements: twilight palettes (**Dusk** / **Caravan** / **Outpost**), brand canon (**Mascot**), and original studio palettes (**Forge** / **Cohort**). Portfolio breadcrumbs that double as palettes.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/assets/series-studio-dark.svg">
-  <img src="docs/assets/series-studio-light.svg" alt="Studio Series — 6 palettes from the field" width="100%">
+  <img src="docs/assets/series-studio-light.svg" alt="Studio Series: 6 palettes from the field" width="100%">
 </picture>
 
 <br>
 
 ---
 
-## Vapor Series — Soft Pastel
+## Vapor Series: Soft Pastel
 
 5 soft-pastel originals: **Mist · Haze · Veil · Lull · Drift**. Trend coverage without chasing. Pair beautifully with `vapor` or `grain-fine` procedural texture for dreamy backdrops.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/assets/series-vapor-dark.svg">
-  <img src="docs/assets/series-vapor-light.svg" alt="Vapor Series — 5 soft pastel gradients" width="100%">
+  <img src="docs/assets/series-vapor-light.svg" alt="Vapor Series: 5 soft pastel gradients" width="100%">
 </picture>
 
 <br>
 
 ---
 
-## Ink Series — High-Contrast Editorial
+## Ink Series: High-Contrast Editorial
 
 5 high-contrast duo-tones with chromatic aberration: **Sumi · Reverb · Crash · Cipher · Strobe**. Editorial / pitch-deck character. Layer with `risograph` or `ink-bleed` procedural texture for the print-press finish.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/assets/series-ink-dark.svg">
-  <img src="docs/assets/series-ink-light.svg" alt="Ink Series — 5 high-contrast duo-tones" width="100%">
+  <img src="docs/assets/series-ink-light.svg" alt="Ink Series: 5 high-contrast duo-tones" width="100%">
 </picture>
 
 <br>
 
 ---
 
-## Procedural Textures — 10 SVG Filters
+## Procedural Textures: 10 SVG Filters
 
 Drop any of these `<filter>` recipes over any gradient (or any element) for the okaybabe signature paper-grain, oil-slick, riso, or chromatic-aberration look. **Zero-byte, infinitely scalable, parametric.** Shown below over brand-violet for visual contrast.
 
@@ -146,42 +145,42 @@ Drop any of these `<filter>` recipes over any gradient (or any element) for the 
 
 ---
 
-## GLSL Shaders — 13 Fragment Shaders
+## GLSL Shaders: 13 Fragment Shaders
 
-<sub>**Status:** SHIPPED. Hand-authored animated GLSL with `react-three-fiber` component wrappers and MP4 previews rendered via Remotion 4.x. Live preview MP4s at [previews.okaybabe.dev](https://previews.okaybabe.dev/v1/halation-1080p.mp4). Live React components install via `pnpm add @okaybabe/shaders`.</sub>
+<sub>**Status:** SHIPPED. Hand-authored animated GLSL with `react-three-fiber` component wrappers and MP4 previews rendered via Remotion 4.x. Live React components install via `pnpm add @okaybabe/shaders`.</sub>
 
 <table>
 <tr>
-<td><b><a href="https://previews.okaybabe.dev/v1/aperture-bloom-1080p.mp4">Aperture Bloom</a></b></td><td>5-blade polar symmetry — brand-canonical petals echoing the okaybabe aperture mark</td>
-<td><b><a href="https://previews.okaybabe.dev/v1/halation-1080p.mp4">Halation</a></b></td><td>Subtle chromatic-aberration glow — the UI-grade primitive</td>
+<td><b>Aperture Bloom</b></td><td>5-blade polar symmetry: brand-canonical petals echoing the okaybabe aperture mark</td>
+<td><b>Halation</b></td><td>Subtle chromatic-aberration glow: the UI-grade primitive</td>
 </tr>
 <tr>
-<td><b><a href="https://previews.okaybabe.dev/v1/quarry-1080p.mp4">Quarry</a></b></td><td>Slow flowing layered noise — stone-textured ambient field</td>
-<td><b><a href="https://previews.okaybabe.dev/v1/ink-run-1080p.mp4">Ink Run</a></b></td><td>Wet ink soaking into warm paper, capillary tide-line</td>
+<td><b>Quarry</b></td><td>Slow flowing layered noise: stone-textured ambient field</td>
+<td><b>Ink Run</b></td><td>Wet ink soaking into warm paper, capillary tide-line</td>
 </tr>
 <tr>
-<td><b><a href="https://previews.okaybabe.dev/v1/optic-1080p.mp4">Optic</a></b></td><td>Lens with 5-blade aperture symmetry, chromatic edge separation</td>
-<td><b><a href="https://previews.okaybabe.dev/v1/foxglove-1080p.mp4">Foxglove</a></b></td><td>Soft floral chromatic bloom, 5-fold petals, throat stippling</td>
+<td><b>Optic</b></td><td>Lens with 5-blade aperture symmetry, chromatic edge separation</td>
+<td><b>Foxglove</b></td><td>Soft floral chromatic bloom, 5-fold petals, throat stippling</td>
 </tr>
 <tr>
-<td><b><a href="https://previews.okaybabe.dev/v1/prism-stop-1080p.mp4">Prism Stop</a></b></td><td>Central refractive band — prism dispersion across R/G/B channels</td>
-<td><b><a href="https://previews.okaybabe.dev/v1/twilight-run-1080p.mp4">Twilight Run</a></b></td><td>Warm-top → deep-bottom horizon + horizontal streaks</td>
+<td><b>Prism Stop</b></td><td>Central refractive band: prism dispersion across R/G/B channels</td>
+<td><b>Twilight Run</b></td><td>Warm-top → deep-bottom horizon + horizontal streaks</td>
 </tr>
 <tr>
-<td><b><a href="https://previews.okaybabe.dev/v1/vellum-1080p.mp4">Vellum</a></b></td><td>Warm parchment with paper grain + soft light drift</td>
-<td><b><a href="https://previews.okaybabe.dev/v1/sirocco-1080p.mp4">Sirocco</a></b></td><td>Desert wind with horizontal streaks + dust drift</td>
+<td><b>Vellum</b></td><td>Warm parchment with paper grain + soft light drift</td>
+<td><b>Sirocco</b></td><td>Desert wind with horizontal streaks + dust drift</td>
 </tr>
 <tr>
-<td><b><a href="https://previews.okaybabe.dev/v1/hessian-1080p.mp4">Hessian</a></b></td><td>Burlap weave with cross-hatched fiber + organic variance</td>
-<td><b><a href="https://previews.okaybabe.dev/v1/chroma-bleed-1080p.mp4">Chroma Bleed</a></b></td><td>Discrete R/Y/G/C/B fringes around bright peaks — CRT-style spectral artifacts</td>
+<td><b>Hessian</b></td><td>Burlap weave with cross-hatched fiber + organic variance</td>
+<td><b>Chroma Bleed</b></td><td>Discrete R/Y/G/C/B fringes around bright peaks: CRT-style spectral artifacts</td>
 </tr>
 <tr>
-<td><b><a href="https://previews.okaybabe.dev/v1/membrane-1080p.mp4">Membrane</a></b></td><td>Cellular outlines on warm substrate — microscope-view tissue</td>
+<td><b>Membrane</b></td><td>Cellular outlines on warm substrate: microscope-view tissue</td>
 <td></td><td></td>
 </tr>
 </table>
 
-Each shader ships in 4 video sizes (`-1080p.mp4` master, `-1080sq.mp4` social, `-720p.mp4` README, `-540sq.mp4` gallery) plus a `-poster.jpg` thumbnail. Browse the full URL pattern at `https://previews.okaybabe.dev/v1/<shader>-<variant>.<ext>`.
+Each shader ships in 4 video sizes (`-1080p.mp4` master, `-1080sq.mp4` social, `-720p.mp4` README, `-540sq.mp4` gallery) plus a `-poster.jpg` thumbnail.
 
 <br>
 
@@ -225,11 +224,11 @@ pnpm build:packs   # generate all download formats → dist/downloads/
 
 ## How we built it
 
-- **Color extraction** — saliency-weighted k-means in **OKLCH** space (perceptually uniform). Pre-blur via `sharp.blur(1.0)` to kill JPEG compression artifacts. `seed=42` deterministic. Provenance recorded per gradient.
-- **Hand-craft + algorithm hybrid** — Aperture + Studio + Vapor + Ink series authored from brand canon + real studio palettes; Surface series extracted from owned analog textures. Every gradient is okaybabe-original.
-- **Procedural textures** — JSON recipes, not pre-rendered PNGs. Per-format adapters emit native equivalents (Sketch noise effect / Figma effect layer / CSS inline SVG data-URI).
-- **Shader authoring** — hand-crafted GLSL. MP4 previews captured headless via Puppeteer + ffmpeg, then color-graded in DaVinci Resolve for the cinematic finish.
-- **Determinism** — sorted JSON keys, hardcoded `createdAt`, hash-snapshot CI tests. Same input → same output, every time.
+- **Color extraction**: saliency-weighted k-means in **OKLCH** space (perceptually uniform). Pre-blur via `sharp.blur(1.0)` to kill JPEG compression artifacts. `seed=42` deterministic. Provenance recorded per gradient.
+- **Hand-craft + algorithm hybrid**: Aperture + Studio + Vapor + Ink series authored from brand canon + real studio palettes; Surface series extracted from owned analog textures. Every gradient is okaybabe-original.
+- **Procedural textures**: JSON recipes, not pre-rendered PNGs. Per-format adapters emit native equivalents (Sketch noise effect / Figma effect layer / CSS inline SVG data-URI).
+- **Shader authoring**: hand-crafted GLSL. MP4 previews captured headless via Puppeteer + ffmpeg, then color-graded in DaVinci Resolve for the cinematic finish.
+- **Determinism**: sorted JSON keys, hardcoded `createdAt`, hash-snapshot CI tests. Same input → same output, every time.
 
 <br>
 
@@ -238,8 +237,8 @@ pnpm build:packs   # generate all download formats → dist/downloads/
 ## License posture
 
 - **Source code:** MIT (this repo + every emitted pack file header)
-- **Generated gradients + textures + shaders:** MIT — full free use, including commercial, with no attribution required
-- **Provenance:** every gradient records its source for audit-trail integrity. For the Surface Series, source pixels are never redistributed — only extracted color values, which aren't copyrightable.
+- **Generated gradients + textures + shaders:** MIT, full free use, including commercial, with no attribution required
+- **Provenance:** every gradient records its source for audit-trail integrity. For the Surface Series, source pixels are never redistributed, only extracted color values, which aren't copyrightable.
 
 <br>
 
@@ -250,7 +249,7 @@ pnpm build:packs   # generate all download formats → dist/downloads/
 <table>
 <tr>
 <td valign="middle" align="center">
-<img src="https://raw.githubusercontent.com/Okay-Babe/.github/main/profile/assets/babe-walk-light.webp" alt="Babe — okaybabe mascot" width="180">
+<img src="https://raw.githubusercontent.com/Okay-Babe/.github/main/profile/assets/babe-walk-light.webp" alt="lulu, the okaybabe mascot" width="180">
 </td>
 <td valign="middle">
 
@@ -258,9 +257,9 @@ pnpm build:packs   # generate all download formats → dist/downloads/
 
 <sub>the design studio that ships end-to-end.</sub>
 
-We design, build, host, and rank a small number of custom sites a year. This pack is part of how we share back. Free, MIT, no attribution required — use it anywhere, including in things you ship to your customers.
+We design, build, host, and rank a small number of custom sites a year. This pack is part of how we share back. Free, MIT, no attribution required. Use it anywhere, including in things you ship to your customers.
 
-[**okaybabe.com**](https://okaybabe.com) · [**Discord**](https://discord.gg/uYZbByZSjr) · [**Companion: @okaybabe/shaders**](https://github.com/Okay-Babe/okaybabe-shaders)
+[**okaybabe.com**](https://okaybabe.com) · [**Companion: @okaybabe/shaders**](https://github.com/Okay-Babe/okaybabe-shaders)
 
 </td>
 </tr>
@@ -271,7 +270,6 @@ We design, build, host, and rank a small number of custom sites a year. This pac
 <div align="center">
 
 [![okaybabe.com](https://img.shields.io/badge/okaybabe.com-7C3AED?style=for-the-badge)](https://okaybabe.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uYZbByZSjr)
 [![Email](https://img.shields.io/badge/📧_hello@okaybabe.com-18181B?style=for-the-badge)](mailto:hello@okaybabe.com)
 
 <br>
