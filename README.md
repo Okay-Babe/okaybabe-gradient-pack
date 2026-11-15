@@ -25,7 +25,7 @@ A free, MIT-licensed gradient + texture + shader pack from [the okaybabe studio]
 
 <br>
 
-[Aperture](#aperture-series--prismatic-anchor) · [Surface](#surface-series--paper-tones-library) · [Studio](#studio-series--palettes-from-the-field) · [Vapor](#vapor-series--soft-pastel) · [Ink](#ink-series--high-contrast-editorial) · [Procedural Textures](#procedural-textures--10-svg-filters) · [GLSL Shaders](#glsl-shaders--13-fragment-shaders) · [Formats](#download-formats)
+[Aperture](#aperture-series-prismatic-anchor) · [Surface](#surface-series-paper-tones-library) · [Studio](#studio-series-palettes-from-the-field) · [Vapor](#vapor-series-soft-pastel) · [Ink](#ink-series-high-contrast-editorial) · [Procedural Textures](#procedural-textures-10-svg-filters) · [GLSL Shaders](#glsl-shaders-13-fragment-shaders) · [Formats](#download-formats)
 
 </div>
 
