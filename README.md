@@ -16,7 +16,7 @@
 <br>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-7C3AED?style=for-the-badge)](LICENSE)
-[![Download Pack](https://img.shields.io/badge/Download_Pack_→-7C3AED?style=for-the-badge)](https://okaybabe.com/gradients)
+[![Download Pack](https://img.shields.io/badge/Download_Pack_→-7C3AED?style=for-the-badge)](https://github.com/Okay-Babe/okaybabe-gradient-pack/releases/latest)
 [![Figma Community](https://img.shields.io/badge/Figma_Community-18181B?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/1644524450593985939/okaybabe-gradient-pack-v1-0-0)
 
 <br>
@@ -151,31 +151,31 @@ Drop any of these `<filter>` recipes over any gradient (or any element) for the 
 
 <table>
 <tr>
-<td><b>Aperture Bloom</b></td><td>5-blade polar symmetry: brand-canonical petals echoing the okaybabe aperture mark</td>
-<td><b>Halation</b></td><td>Subtle chromatic-aberration glow: the UI-grade primitive</td>
+<td><b><a href="https://previews.okaybabe.dev/v1/aperture-bloom-1080p.mp4">Aperture Bloom</a></b></td><td>5-blade polar symmetry: brand-canonical petals echoing the okaybabe aperture mark</td>
+<td><b><a href="https://previews.okaybabe.dev/v1/halation-1080p.mp4">Halation</a></b></td><td>Subtle chromatic-aberration glow: the UI-grade primitive</td>
 </tr>
 <tr>
-<td><b>Quarry</b></td><td>Slow flowing layered noise: stone-textured ambient field</td>
-<td><b>Ink Run</b></td><td>Wet ink soaking into warm paper, capillary tide-line</td>
+<td><b><a href="https://previews.okaybabe.dev/v1/quarry-1080p.mp4">Quarry</a></b></td><td>Slow flowing layered noise: stone-textured ambient field</td>
+<td><b><a href="https://previews.okaybabe.dev/v1/ink-run-1080p.mp4">Ink Run</a></b></td><td>Wet ink soaking into warm paper, capillary tide-line</td>
 </tr>
 <tr>
-<td><b>Optic</b></td><td>Lens with 5-blade aperture symmetry, chromatic edge separation</td>
-<td><b>Foxglove</b></td><td>Soft floral chromatic bloom, 5-fold petals, throat stippling</td>
+<td><b><a href="https://previews.okaybabe.dev/v1/optic-1080p.mp4">Optic</a></b></td><td>Lens with 5-blade aperture symmetry, chromatic edge separation</td>
+<td><b><a href="https://previews.okaybabe.dev/v1/foxglove-1080p.mp4">Foxglove</a></b></td><td>Soft floral chromatic bloom, 5-fold petals, throat stippling</td>
 </tr>
 <tr>
-<td><b>Prism Stop</b></td><td>Central refractive band: prism dispersion across R/G/B channels</td>
-<td><b>Twilight Run</b></td><td>Warm-top → deep-bottom horizon + horizontal streaks</td>
+<td><b><a href="https://previews.okaybabe.dev/v1/prism-stop-1080p.mp4">Prism Stop</a></b></td><td>Central refractive band: prism dispersion across R/G/B channels</td>
+<td><b><a href="https://previews.okaybabe.dev/v1/twilight-run-1080p.mp4">Twilight Run</a></b></td><td>Warm-top → deep-bottom horizon + horizontal streaks</td>
 </tr>
 <tr>
-<td><b>Vellum</b></td><td>Warm parchment with paper grain + soft light drift</td>
-<td><b>Sirocco</b></td><td>Desert wind with horizontal streaks + dust drift</td>
+<td><b><a href="https://previews.okaybabe.dev/v1/vellum-1080p.mp4">Vellum</a></b></td><td>Warm parchment with paper grain + soft light drift</td>
+<td><b><a href="https://previews.okaybabe.dev/v1/sirocco-1080p.mp4">Sirocco</a></b></td><td>Desert wind with horizontal streaks + dust drift</td>
 </tr>
 <tr>
-<td><b>Hessian</b></td><td>Burlap weave with cross-hatched fiber + organic variance</td>
-<td><b>Chroma Bleed</b></td><td>Discrete R/Y/G/C/B fringes around bright peaks: CRT-style spectral artifacts</td>
+<td><b><a href="https://previews.okaybabe.dev/v1/hessian-1080p.mp4">Hessian</a></b></td><td>Burlap weave with cross-hatched fiber + organic variance</td>
+<td><b><a href="https://previews.okaybabe.dev/v1/chroma-bleed-1080p.mp4">Chroma Bleed</a></b></td><td>Discrete R/Y/G/C/B fringes around bright peaks: CRT-style spectral artifacts</td>
 </tr>
 <tr>
-<td><b>Membrane</b></td><td>Cellular outlines on warm substrate: microscope-view tissue</td>
+<td><b><a href="https://previews.okaybabe.dev/v1/membrane-1080p.mp4">Membrane</a></b></td><td>Cellular outlines on warm substrate: microscope-view tissue</td>
 <td></td><td></td>
 </tr>
 </table>
